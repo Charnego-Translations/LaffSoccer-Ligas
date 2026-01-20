@@ -1,6 +1,5 @@
 {
-  "_comment": "Newcastle 2025-26",
-"name": "NEWCASTLE",
+"name": "NEWCASTLE UNITED",
 "type": "CLUB",
 "country": "ESP",
 "league": "HISTÓRICOS",
@@ -14,28 +13,28 @@
 "tactics": "4-4-2",
 "kits": [
 	{
-		"style": "BIG_V",
-		"shirt1": "#0f01ac",
-		"shirt2": "#a82fc2",
-		"shirt3": "#1247eb",
-		"shorts": "#15fae6",
-		"socks": "#dae596"
+		"style": "VERTICAL",
+		"shirt1": "#dfe8eb",
+		"shirt2": "#1e1e1e",
+		"shirt3": "#1e1e1e",
+		"shorts": "#1e1e1e",
+		"socks": "#1e1e1e"
 	},
 	{
-		"style": "ARMBAND",
-		"shirt1": "#3a3338",
-		"shirt2": "#e34a52",
-		"shirt3": "#371b5b",
-		"shorts": "#fc7704",
-		"socks": "#7d503c"
+		"style": "SIDE_LINES",
+		"shirt1": "#417039",
+		"shirt2": "#dfe8eb",
+		"shirt3": "#dfe8eb",
+		"shorts": "#dfe8eb",
+		"socks": "#417039"
 	},
 	{
-		"style": "DIAGONAL_HALF",
-		"shirt1": "#5567c0",
-		"shirt2": "#570f9c",
-		"shirt3": "#a6e338",
-		"shorts": "#ef0814",
-		"socks": "#a39727"
+		"style": "SPICE",
+		"shirt1": "#2e247a",
+		"shirt2": "#ffd200",
+		"shirt3": "#ffd200",
+		"shorts": "#2e247a",
+		"socks": "#2e247a"
 	}
 ],
 "players": [
@@ -46,7 +45,7 @@
 		"role": "GOALKEEPER",
 		"number": 1,
 		"skinColor": "ARAB",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_D",
 		"value": 28
 	},
@@ -57,7 +56,7 @@
 		"role": "DEFENDER",
 		"number": 12,
 		"skinColor": "PINK",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_D",
 		"skills": {
 			"passing": 3,
@@ -210,7 +209,7 @@
 		"nationality": "GER",
 		"role": "DEFENDER",
 		"number": 27,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "BLOND",
 		"hairStyle": "SMOOTH_L",
 		"skills": {
@@ -262,8 +261,8 @@
 		"nationality": "ESP",
 		"role": "ATTACKER",
 		"number": 23,
-		"skinColor": "ALIEN",
-		"hairColor": "PUNK_FUCHSIA",
+		"skinColor": "RED",
+		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_E",
 		"skills": {
 			"passing": 4,
@@ -289,9 +288,9 @@
 		"nationality": "ESP",
 		"role": "GOALKEEPER",
 		"number": 32,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "WHITE",
-		"hairStyle": "SPECIAL_A",
+		"hairStyle": "SPECIAL_B",
 		"value": 12
 	},
 	{
@@ -300,7 +299,7 @@
 		"nationality": "ESP",
 		"role": "ATTACKER",
 		"number": 11,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "BLACK",
 		"hairStyle": "SHORT_B",
 		"skills": {
@@ -327,7 +326,7 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 67,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "WHITE",
 		"hairStyle": "SHAVED",
 		"skills": {
@@ -376,7 +375,7 @@
 		"role": "ATTACKER",
 		"number": 20,
 		"skinColor": "PALE",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "CURLY_B",
 		"skills": {
 			"passing": 2,
@@ -426,7 +425,7 @@
 		"nationality": "ESP",
 		"role": "RIGHT_BACK",
 		"number": 2,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "BROWN",
 		"hairStyle": "CURLY_F",
 		"skills": {
@@ -471,7 +470,7 @@
 		"role": "MIDFIELDER",
 		"number": 28,
 		"skinColor": "ARAB",
-		"hairColor": "WHITE",
+		"hairColor": "PLATINUM",
 		"hairStyle": "CURLY_F",
 		"skills": {
 			"passing": 3,
@@ -497,7 +496,7 @@
 		"nationality": "ESP",
 		"role": "ATTACKER",
 		"number": 18,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "GRAY",
 		"hairStyle": "PIGTAIL_C",
 		"skills": {
@@ -520,7 +519,7 @@
 		"role": "ATTACKER",
 		"number": 9,
 		"skinColor": "ARAB",
-		"hairColor": "WHITE",
+		"hairColor": "PLATINUM",
 		"hairStyle": "CURLY_D",
 		"skills": {
 			"passing": 2,
@@ -589,7 +588,7 @@
 		"role": "DEFENDER",
 		"number": 37,
 		"skinColor": "PALE",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "PIGTAIL_A",
 		"skills": {
 			"passing": 3,

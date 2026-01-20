@@ -1,6 +1,5 @@
 {
-  "_comment": "Everton 2025-26",
-"name": "EVERTON",
+"name": "EVERTON FC",
 "type": "CLUB",
 "country": "ESP",
 "league": "HISTÓRICOS",
@@ -14,28 +13,28 @@
 "tactics": "4-4-2",
 "kits": [
 	{
-		"style": "VERTICAL",
-		"shirt1": "#239ec0",
-		"shirt2": "#97d3d1",
-		"shirt3": "#843c2c",
-		"shorts": "#cb4628",
-		"socks": "#99e637"
+		"style": "PLAIN",
+		"shirt1": "#3033c1",
+		"shirt2": "#dfe8eb",
+		"shirt3": "#dfe8eb",
+		"shorts": "#dfe8eb",
+		"socks": "#3033c1"
 	},
 	{
-		"style": "BIG_V",
-		"shirt1": "#05f843",
-		"shirt2": "#71b663",
-		"shirt3": "#44b51b",
-		"shorts": "#588632",
-		"socks": "#40e8b9"
+		"style": "PLAIN",
+		"shirt1": "#cac47d",
+		"shirt2": "#5d2399",
+		"shirt3": "#5d2399",
+		"shorts": "#5d2399",
+		"socks": "#cac47d"
 	},
 	{
-		"style": "LINE",
-		"shirt1": "#72bd8d",
-		"shirt2": "#cc8934",
-		"shirt3": "#b488a5",
-		"shorts": "#db2d57",
-		"socks": "#25c3be"
+		"style": "HORIZONTAL",
+		"shirt1": "#1e1e1e",
+		"shirt2": "#ffd200",
+		"shirt3": "#ffd200",
+		"shorts": "#1e1e1e",
+		"socks": "#1e1e1e"
 	}
 ],
 "players": [
@@ -45,9 +44,9 @@
 		"nationality": "ESP",
 		"role": "GOALKEEPER",
 		"number": 1,
-		"skinColor": "ASIATIC",
+		"skinColor": "PALE",
 		"hairColor": "BLACK",
-		"hairStyle": "SPECIAL_D",
+		"hairStyle": "THINNING_C",
 		"value": 19
 	},
 	{
@@ -56,7 +55,7 @@
 		"nationality": "ESP",
 		"role": "DEFENDER",
 		"number": 6,
-		"skinColor": "ARAB",
+		"skinColor": "PALE",
 		"hairColor": "WHITE",
 		"hairStyle": "PIGTAIL_A",
 		"skills": {
@@ -80,7 +79,7 @@
 		"nationality": "UKR",
 		"role": "LEFT_BACK",
 		"number": 16,
-		"skinColor": "MULATTO",
+		"skinColor": "ARAB",
 		"hairColor": "WHITE",
 		"hairStyle": "BALD_B",
 		"skills": {
@@ -107,7 +106,7 @@
 		"role": "DEFENDER",
 		"number": 15,
 		"skinColor": "PINK",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_K",
 		"skills": {
 			"passing": 4,
@@ -152,7 +151,7 @@
 		"role": "MIDFIELDER",
 		"number": 37,
 		"skinColor": "ASIATIC",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "SPECIAL_A",
 		"skills": {
 			"passing": 4,
@@ -203,7 +202,7 @@
 		"role": "MIDFIELDER",
 		"number": 27,
 		"skinColor": "BLACK",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "SHORT_A",
 		"skills": {
 			"passing": 3,
@@ -248,8 +247,8 @@
 		"nationality": "ESP",
 		"role": "ATTACKER",
 		"number": 10,
-		"skinColor": "ALIEN",
-		"hairColor": "PUNK_FUCHSIA",
+		"skinColor": "RED",
+		"hairColor": "PUNK_BLOND",
 		"hairStyle": "SPECIAL_E",
 		"skills": {
 			"passing": 2,
@@ -390,7 +389,7 @@
 		"nationality": "ESP",
 		"role": "GOALKEEPER",
 		"number": 31,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "PLATINUM",
 		"hairStyle": "SMOOTH_O",
 		"value": 37
@@ -495,8 +494,8 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 45,
-		"skinColor": "ALIEN",
-		"hairColor": "PUNK_FUCHSIA",
+		"skinColor": "RED",
+		"hairColor": "BLACK",
 		"hairStyle": "CURLY_C",
 		"skills": {
 			"passing": 4,
@@ -545,7 +544,7 @@
 		"role": "LEFT_BACK",
 		"number": 73,
 		"skinColor": "RED",
-		"hairColor": "WHITE",
+		"hairColor": "PUNK_BLOND",
 		"hairStyle": "SMOOTH_A",
 		"skills": {
 			"passing": 5,
@@ -567,7 +566,7 @@
 		"nationality": "ESP",
 		"role": "DEFENDER",
 		"number": 64,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "PUNK_FUCHSIA",
 		"hairStyle": "SPECIAL_C",
 		"skills": {
@@ -588,13 +587,13 @@
 		]
 	},
 	{
-		"name": "TYLER JADEN NAPIER EDWARD ONYANGO",
+		"name": "TYLER JADEN NAPIER EDWARD",
 		"shirtName": "ONYANGO",
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 62,
-		"skinColor": "ARAB",
-		"hairColor": "WHITE",
+		"skinColor": "BLACK",
+		"hairColor": "BLACK",
 		"hairStyle": "THINNING_A",
 		"skills": {
 			"passing": 4,

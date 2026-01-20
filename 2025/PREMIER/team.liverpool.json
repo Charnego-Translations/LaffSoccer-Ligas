@@ -1,6 +1,5 @@
 {
-  "_comment": "Liverpool 2025-26",
-"name": "LIVERPOOL",
+"name": "LIVERPOOL FC",
 "type": "CLUB",
 "country": "ESP",
 "league": "HISTÓRICOS",
@@ -14,28 +13,28 @@
 "tactics": "4-4-2",
 "kits": [
 	{
-		"style": "STRIP",
-		"shirt1": "#50b534",
-		"shirt2": "#ae588f",
-		"shirt3": "#40737e",
-		"shorts": "#846c2a",
-		"socks": "#32a41a"
-	},
-	{
 		"style": "SIDE_LINES",
-		"shirt1": "#651e00",
-		"shirt2": "#424576",
-		"shirt3": "#cc0d5b",
-		"shorts": "#dcd388",
-		"socks": "#ebd208"
+		"shirt1": "#f61c1c",
+		"shirt2": "#dfe8eb",
+		"shirt3": "#dfe8eb",
+		"shorts": "#f61c1c",
+		"socks": "#f61c1c"
 	},
 	{
-		"style": "CHECK",
-		"shirt1": "#16e29a",
-		"shirt2": "#b605e2",
-		"shirt3": "#33b725",
-		"shorts": "#49653c",
-		"socks": "#03616d"
+		"style": "ARMBAND",
+		"shirt1": "#dfe8eb",
+		"shirt2": "#f61c1c",
+		"shirt3": "#f61c1c",
+		"shorts": "#1e1e1e",
+		"socks": "#dfe8eb"
+	},
+	{
+		"style": "VERTICAL",
+		"shirt1": "#47bfeb",
+		"shirt2": "#0b7dd5",
+		"shirt3": "#0b7dd5",
+		"shorts": "#dfe8eb",
+		"socks": "#47bfeb"
 	}
 ],
 "players": [
@@ -45,7 +44,7 @@
 		"nationality": "BRA",
 		"role": "GOALKEEPER",
 		"number": 1,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "BLACK",
 		"hairStyle": "SHAVED",
 		"value": 21
@@ -81,8 +80,8 @@
 		"nationality": "HUN",
 		"role": "LEFT_BACK",
 		"number": 6,
-		"skinColor": "BLACK",
-		"hairColor": "BLACK",
+		"skinColor": "PINK",
+		"hairColor": "RED",
 		"hairStyle": "SMOOTH_C",
 		"skills": {
 			"passing": 4,
@@ -135,7 +134,7 @@
 		"nationality": "ESP",
 		"role": "DEFENDER",
 		"number": 4,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "BROWN",
 		"hairStyle": "THINNING_A",
 		"skills": {
@@ -162,8 +161,8 @@
 		"role": "MIDFIELDER",
 		"number": 8,
 		"skinColor": "MULATTO",
-		"hairColor": "BLACK",
-		"hairStyle": "SPECIAL_C",
+		"hairColor": "PLATINUM",
+		"hairStyle": "CURLY_A",
 		"skills": {
 			"passing": 4,
 			"shooting": 4,
@@ -186,7 +185,7 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 38,
-		"skinColor": "ASIATIC",
+		"skinColor": "PINK",
 		"hairColor": "WHITE",
 		"hairStyle": "SMOOTH_N",
 		"skills": {
@@ -278,7 +277,7 @@
 		"role": "DEFENDER",
 		"number": 22,
 		"skinColor": "PINK",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "SPECIAL_F",
 		"skills": {
 			"passing": 5,
@@ -312,9 +311,9 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 17,
-		"skinColor": "ASIATIC",
-		"hairColor": "PLATINUM",
-		"hairStyle": "THINNING_A",
+		"skinColor": "PALE",
+		"hairColor": "BLACK",
+		"hairStyle": "CURLY_B",
 		"skills": {
 			"passing": 5,
 			"shooting": 2,
@@ -327,12 +326,12 @@
 		"bestSkills": []
 	},
 	{
-		"name": "MOHAMED SALAH HAMED MAHROUS GHALY",
+		"name": "MOHAMED SALAH HAMED MAHROUS",
 		"shirtName": "SALAH",
 		"nationality": "ESP",
 		"role": "ATTACKER",
 		"number": 11,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "GRAY",
 		"hairStyle": "SMOOTH_F",
 		"skills": {
@@ -354,7 +353,7 @@
 		"nationality": "ESP",
 		"role": "LEFT_BACK",
 		"number": 26,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "PLATINUM",
 		"hairStyle": "PIGTAIL_C",
 		"skills": {
@@ -380,7 +379,7 @@
 		"role": "ATTACKER",
 		"number": 14,
 		"skinColor": "ARAB",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "CURLY_D",
 		"skills": {
 			"passing": 7,
@@ -511,7 +510,7 @@
 		"role": "MIDFIELDER",
 		"number": 3,
 		"skinColor": "ARAB",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "CURLY_B",
 		"skills": {
 			"passing": 3,
@@ -582,7 +581,7 @@
 		"role": "MIDFIELDER",
 		"number": 19,
 		"skinColor": "ASIATIC",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "SHORT_C",
 		"skills": {
 			"passing": 5,
@@ -605,7 +604,7 @@
 		"nationality": "ESP",
 		"role": "DEFENDER",
 		"number": 92,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "BROWN",
 		"hairStyle": "SMOOTH_G",
 		"skills": {

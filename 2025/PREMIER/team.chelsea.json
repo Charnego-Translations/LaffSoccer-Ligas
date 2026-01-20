@@ -1,6 +1,5 @@
 {
-  "_comment": "Chelsea 2025-26",
-"name": "CHELSEA",
+"name": "CHELSEA FC",
 "type": "CLUB",
 "country": "ESP",
 "league": "HISTÓRICOS",
@@ -14,28 +13,28 @@
 "tactics": "4-4-2",
 "kits": [
 	{
-		"style": "HORIZONTAL",
-		"shirt1": "#9a7c03",
-		"shirt2": "#ce3184",
-		"shirt3": "#68134f",
-		"shorts": "#a7ffcf",
-		"socks": "#4d5e63"
+		"style": "PLAIN",
+		"shirt1": "#3033c1",
+		"shirt2": "#2e247a",
+		"shirt3": "#2e247a",
+		"shorts": "#3033c1",
+		"socks": "#dfe8eb"
 	},
 	{
 		"style": "VERTICAL_STRIP",
-		"shirt1": "#1c5651",
-		"shirt2": "#ee0ffb",
-		"shirt3": "#712615",
-		"shorts": "#9e18fd",
-		"socks": "#78399f"
+		"shirt1": "#afb2b9",
+		"shirt2": "#949494",
+		"shirt3": "#417039",
+		"shorts": "#afb2b9",
+		"socks": "#417039"
 	},
 	{
-		"style": "SPICE",
-		"shirt1": "#874ac7",
-		"shirt2": "#699bab",
-		"shirt3": "#0f7555",
-		"shorts": "#969ebf",
-		"socks": "#363a0d"
+		"style": "SIDE_LINES",
+		"shirt1": "#1e1e1e",
+		"shirt2": "#3033c1",
+		"shirt3": "#3033c1",
+		"shorts": "#1e1e1e",
+		"socks": "#1e1e1e"
 	}
 ],
 "players": [
@@ -45,7 +44,7 @@
 		"nationality": "ESP",
 		"role": "GOALKEEPER",
 		"number": 1,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "RED",
 		"hairStyle": "SMOOTH_N",
 		"value": 12
@@ -177,9 +176,9 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 25,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "BROWN",
-		"hairStyle": "SPECIAL_G",
+		"hairStyle": "SPECIAL_H",
 		"skills": {
 			"passing": 3,
 			"shooting": 3,
@@ -203,7 +202,7 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 10,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "BLOND",
 		"hairStyle": "SMOOTH_B",
 		"skills": {
@@ -276,7 +275,7 @@
 		"nationality": "ARG",
 		"role": "ATTACKER",
 		"number": 49,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "BROWN",
 		"hairStyle": "SPECIAL_B",
 		"skills": {
@@ -309,7 +308,7 @@
 		"value": 39
 	},
 	{
-		"name": "ESTÊVÃO WILLIAN ALMEIDA DE OLIVEIRA GONÇALVES",
+		"name": "ESTÊVÃO WILLIAN ALMEIDA",
 		"shirtName": "ESTÊVÃO",
 		"nationality": "BRA",
 		"role": "ATTACKER",
@@ -338,7 +337,7 @@
 		"nationality": "BRA",
 		"role": "MIDFIELDER",
 		"number": 17,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "BLOND",
 		"hairStyle": "SMOOTH_A",
 		"skills": {
@@ -408,7 +407,7 @@
 		"nationality": "ESP",
 		"role": "GOALKEEPER",
 		"number": 44,
-		"skinColor": "BLACK",
+		"skinColor": "PALE",
 		"hairColor": "WHITE",
 		"hairStyle": "SMOOTH_A",
 		"value": 24
@@ -419,7 +418,7 @@
 		"nationality": "ESP",
 		"role": "ATTACKER",
 		"number": 11,
-		"skinColor": "ALIEN",
+		"skinColor": "PINK",
 		"hairColor": "BROWN",
 		"hairStyle": "SPECIAL_C",
 		"skills": {
@@ -437,7 +436,7 @@
 		]
 	},
 	{
-		"name": "ABDUL-NASIR OLUWATOSIN ADARABIOYO",
+		"name": "ABDUL-NASIR OLUWATOSIN",
 		"shirtName": "ADARABIOYO",
 		"nationality": "ESP",
 		"role": "DEFENDER",
@@ -483,7 +482,7 @@
 		]
 	},
 	{
-		"name": "BENOÎT NTAMBUE BADIASHILE MUKINAYI BAYA",
+		"name": "BENOÎT NTAMBUE BADIASHILE",
 		"shirtName": "BADIASHILE",
 		"nationality": "FRA",
 		"role": "DEFENDER",
@@ -535,7 +534,7 @@
 		"nationality": "ESP",
 		"role": "DEFENDER",
 		"number": 38,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "GRAY",
 		"hairStyle": "SMOOTH_D",
 		"skills": {
@@ -576,12 +575,12 @@
 		"bestSkills": []
 	},
 	{
-		"name": "TYRIQUE AARON DELALI YUSUFF GEORGE",
+		"name": "TYRIQUE AARON DELALI YUSUFF",
 		"shirtName": "GEORGE",
 		"nationality": "ESP",
 		"role": "ATTACKER",
 		"number": 32,
-		"skinColor": "MULATTO",
+		"skinColor": "BLACK",
 		"hairColor": "RED",
 		"hairStyle": "SMOOTH_N",
 		"skills": {
@@ -607,7 +606,7 @@
 		"nationality": "ARG",
 		"role": "MIDFIELDER",
 		"number": 40,
-		"skinColor": "BLACK",
+		"skinColor": "PALE",
 		"hairColor": "PLATINUM",
 		"hairStyle": "SMOOTH_K",
 		"skills": {

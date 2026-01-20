@@ -1,6 +1,5 @@
 {
-  "_comment": "Arsenal 2025-26",
-"name": "ARSENAL",
+"name": "ARSENAL FC",
 "type": "CLUB",
 "country": "ESP",
 "league": "HISTÓRICOS",
@@ -14,28 +13,28 @@
 "tactics": "4-4-2",
 "kits": [
 	{
-		"style": "DIAGONAL",
-		"shirt1": "#1fbb23",
-		"shirt2": "#cef1d6",
-		"shirt3": "#8ae928",
-		"shorts": "#f6d090",
-		"socks": "#884caf"
+		"style": "SLEEVES",
+		"shirt1": "#f61c1c",
+		"shirt2": "#dfe8eb",
+		"shirt3": "#f61c1c",
+		"shorts": "#dfe8eb",
+		"socks": "#f61c1c"
 	},
 	{
-		"style": "DIAGONAL",
-		"shirt1": "#89b9c9",
-		"shirt2": "#f92a85",
-		"shirt3": "#be586d",
-		"shorts": "#ef99e2",
-		"socks": "#7112a2"
+		"style": "CHECK",
+		"shirt1": "#47bfeb",
+		"shirt2": "#2e247a",
+		"shirt3": "#f61c1c",
+		"shorts": "#2e247a",
+		"socks": "#2e247a"
 	},
 	{
-		"style": "DIAGONAL",
-		"shirt1": "#bedd7d",
-		"shirt2": "#cd404c",
-		"shirt3": "#081584",
-		"shorts": "#8b6e19",
-		"socks": "#92f0dd"
+		"style": "PLAIN",
+		"shirt1": "#dfe8eb",
+		"shirt2": "#993333",
+		"shirt3": "#993333",
+		"shorts": "#993333",
+		"socks": "#dfe8eb"
 	}
 ],
 "players": [
@@ -45,7 +44,7 @@
 		"nationality": "ESP",
 		"role": "GOALKEEPER",
 		"number": 1,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "GRAY",
 		"hairStyle": "THINNING_C",
 		"value": 28
@@ -130,7 +129,7 @@
 		"role": "DEFENDER",
 		"number": 6,
 		"skinColor": "PALE",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_F",
 		"skills": {
 			"passing": 4,
@@ -218,12 +217,12 @@
 		]
 	},
 	{
-		"name": "BUKAYO MOSES AYOYINKA TEMIDAYO SAKA",
+		"name": "BUKAYO MOSES AYOYINKA TEMIDAYO",
 		"shirtName": "SAKA",
 		"nationality": "ESP",
 		"role": "ATTACKER",
 		"number": 7,
-		"skinColor": "PALE",
+		"skinColor": "BLACK",
 		"hairColor": "BLACK",
 		"hairStyle": "PIGTAIL_B",
 		"skills": {
@@ -243,7 +242,7 @@
 		"nationality": "SWE",
 		"role": "DEFENDER",
 		"number": 14,
-		"skinColor": "BLACK",
+		"skinColor": "PALE",
 		"hairColor": "RED",
 		"hairStyle": "SMOOTH_D",
 		"skills": {
@@ -266,7 +265,7 @@
 		"nationality": "BEL",
 		"role": "ATTACKER",
 		"number": 19,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "GRAY",
 		"hairStyle": "SHORT_A",
 		"skills": {
@@ -298,7 +297,7 @@
 		"role": "MIDFIELDER",
 		"number": 23,
 		"skinColor": "MULATTO",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_G",
 		"skills": {
 			"passing": 4,
@@ -374,8 +373,8 @@
 		"nationality": "ESP",
 		"role": "DEFENDER",
 		"number": 5,
-		"skinColor": "ALIEN",
-		"hairColor": "PUNK_FUCHSIA",
+		"skinColor": "RED",
+		"hairColor": "BLACK",
 		"hairStyle": "SHORT_B",
 		"skills": {
 			"passing": 5,
@@ -412,8 +411,8 @@
 		"nationality": "ESP",
 		"role": "ATTACKER",
 		"number": 20,
-		"skinColor": "BLACK",
-		"hairColor": "PUNK_FUCHSIA",
+		"skinColor": "PINK",
+		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_K",
 		"skills": {
 			"passing": 3,
@@ -451,7 +450,7 @@
 		"bestSkills": []
 	},
 	{
-		"name": "CRISTHIAN ANDREY MOSQUERA IBARGÜEN",
+		"name": "CRISTHIAN ANDREY MOSQUERA",
 		"shirtName": "MOSQUERA",
 		"nationality": "ESP",
 		"role": "DEFENDER",
@@ -529,7 +528,7 @@
 		"nationality": "BRA",
 		"role": "ATTACKER",
 		"number": 9,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "PUNK_FUCHSIA",
 		"hairStyle": "SMOOTH_C",
 		"skills": {

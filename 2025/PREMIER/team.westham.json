@@ -1,6 +1,5 @@
 {
-  "_comment": "West Ham 2025-26",
-"name": "WEST HAM",
+"name": "WEST HAM UNITED",
 "type": "CLUB",
 "country": "ESP",
 "league": "HISTÓRICOS",
@@ -14,28 +13,28 @@
 "tactics": "4-4-2",
 "kits": [
 	{
-		"style": "LINE",
-		"shirt1": "#a20e3c",
-		"shirt2": "#d42609",
-		"shirt3": "#6bdec3",
-		"shorts": "#1f5bbe",
-		"socks": "#4e7f24"
+		"style": "PLAIN",
+		"shirt1": "#993333",
+		"shirt2": "#949494",
+		"shirt3": "#949494",
+		"shorts": "#dfe8eb",
+		"socks": "#dfe8eb"
 	},
 	{
-		"style": "ARMBAND",
-		"shirt1": "#c6c50d",
-		"shirt2": "#08b84b",
-		"shirt3": "#7ae0d9",
-		"shorts": "#10bd1d",
-		"socks": "#2f57f3"
+		"style": "PLAIN",
+		"shirt1": "#cac47d",
+		"shirt2": "#2e247a",
+		"shirt3": "#2e247a",
+		"shorts": "#2e247a",
+		"socks": "#cac47d"
 	},
 	{
-		"style": "HORIZONTAL",
-		"shirt1": "#4daf05",
-		"shirt2": "#106dc8",
-		"shirt3": "#45a128",
-		"shorts": "#c98d38",
-		"socks": "#dd83b4"
+		"style": "PLAIN",
+		"shirt1": "#1e1e1e",
+		"shirt2": "#cac47d",
+		"shirt3": "#cac47d",
+		"shorts": "#cac47d",
+		"socks": "#cac47d"
 	}
 ],
 "players": [
@@ -47,7 +46,7 @@
 		"number": 23,
 		"skinColor": "PINK",
 		"hairColor": "BLACK",
-		"hairStyle": "SPECIAL_G",
+		"hairStyle": "CURLY_B",
 		"value": 39
 	},
 	{
@@ -56,9 +55,9 @@
 		"nationality": "ESP",
 		"role": "RIGHT_BACK",
 		"number": 29,
-		"skinColor": "ASIATIC",
+		"skinColor": "PINK",
 		"hairColor": "RED",
-		"hairStyle": "SMOOTH_I",
+		"hairStyle": "SMOOTH_N",
 		"skills": {
 			"passing": 3,
 			"shooting": 4,
@@ -79,7 +78,7 @@
 		"nationality": "ESP",
 		"role": "DEFENDER",
 		"number": 3,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "BLOND",
 		"hairStyle": "SMOOTH_J",
 		"skills": {
@@ -106,7 +105,7 @@
 		"nationality": "FRA",
 		"role": "DEFENDER",
 		"number": 25,
-		"skinColor": "ASIATIC",
+		"skinColor": "PALE",
 		"hairColor": "BLACK",
 		"hairStyle": "SPECIAL_F",
 		"skills": {
@@ -146,7 +145,7 @@
 		]
 	},
 	{
-		"name": "MATEUS GONÇALO ESPANHA FERNANDES",
+		"name": "MATEUS GONÇALO ESPANHA",
 		"shirtName": "MATEUS FERNANDES",
 		"nationality": "POR",
 		"role": "MIDFIELDER",
@@ -176,7 +175,7 @@
 		"nationality": "BRA",
 		"role": "MIDFIELDER",
 		"number": 10,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "BROWN",
 		"hairStyle": "SMOOTH_H",
 		"skills": {
@@ -249,12 +248,12 @@
 		]
 	},
 	{
-		"name": "CRYSENCIO JILBERT SYLVERIO CIRRO SUMMERVILLE",
+		"name": "CRYSENCIO JILBERT SYLVERIO CIRRO",
 		"shirtName": "SUMMERVILLE",
 		"nationality": "ESP",
 		"role": "ATTACKER",
 		"number": 7,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "RED",
 		"hairStyle": "SPECIAL_F",
 		"skills": {
@@ -280,7 +279,7 @@
 		"nationality": "ESP",
 		"role": "DEFENDER",
 		"number": 9,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "PLATINUM",
 		"hairStyle": "SMOOTH_G",
 		"skills": {
@@ -442,7 +441,7 @@
 		"nationality": "GER",
 		"role": "DEFENDER",
 		"number": 11,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "BLOND",
 		"hairStyle": "SMOOTH_E",
 		"skills": {
@@ -466,7 +465,7 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 39,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "BROWN",
 		"hairStyle": "THINNING_C",
 		"skills": {
@@ -488,12 +487,12 @@
 		]
 	},
 	{
-		"name": "JAMES MICHAEL EDWARD WARD-PROWSE",
+		"name": "JAMES MICHAEL EDWARD",
 		"shirtName": "WARD-PROWSE",
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 8,
-		"skinColor": "ASIATIC",
+		"skinColor": "ARAB",
 		"hairColor": "BROWN",
 		"hairStyle": "SPECIAL_A",
 		"skills": {
@@ -513,7 +512,7 @@
 		"nationality": "ARG",
 		"role": "MIDFIELDER",
 		"number": 24,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "BLACK",
 		"hairStyle": "SHORT_C",
 		"skills": {
@@ -609,8 +608,8 @@
 		"nationality": "MAR",
 		"role": "DEFENDER",
 		"number": 5,
-		"skinColor": "MULATTO",
-		"hairColor": "PLATINUM",
+		"skinColor": "BLACK",
+		"hairColor": "GRAY",
 		"hairStyle": "THINNING_B",
 		"skills": {
 			"passing": 4,

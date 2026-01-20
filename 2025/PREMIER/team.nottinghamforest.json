@@ -1,5 +1,4 @@
 {
-  "_comment": "Nottingham Forest 2025-26",
 "name": "NOTTINGHAM FOREST",
 "type": "CLUB",
 "country": "ESP",
@@ -8,34 +7,34 @@
 "stadium": "CITY GROUND",
 "year": 2025,
 "coach": {
-	"name": "NUNO HERLANDER SIMÕES ESPÍRITO SANTO",
+	"name": "NUNO HERLANDER SIMÕES",
 	"nationality": "POR"
 },
 "tactics": "4-4-2",
 "kits": [
 	{
-		"style": "TWO_STRIPES",
-		"shirt1": "#c9af78",
-		"shirt2": "#cb78ae",
-		"shirt3": "#bec200",
-		"shorts": "#a5738d",
-		"socks": "#e95ed1"
+		"style": "VERTICAL",
+		"shirt1": "#dfe8eb",
+		"shirt2": "#f61c1c",
+		"shirt3": "#f61c1c",
+		"shorts": "#dfe8eb",
+		"socks": "#f61c1c"
 	},
 	{
-		"style": "VERTICAL_HALF",
-		"shirt1": "#76cef5",
-		"shirt2": "#f5c21c",
-		"shirt3": "#4e239c",
-		"shorts": "#1e8f2b",
-		"socks": "#d6dcec"
+		"style": "SIDE_LINES",
+		"shirt1": "#dfe8eb",
+		"shirt2": "#949494",
+		"shirt3": "#949494",
+		"shorts": "#dfe8eb",
+		"socks": "#dfe8eb"
 	},
 	{
-		"style": "CHECK",
-		"shirt1": "#25c5af",
-		"shirt2": "#756ea1",
-		"shirt3": "#67b395",
-		"shorts": "#a6d655",
-		"socks": "#f291c7"
+		"style": "SIDE_LINES",
+		"shirt1": "#2e247a",
+		"shirt2": "#f61c1c",
+		"shirt3": "#f61c1c",
+		"shorts": "#2e247a",
+		"socks": "#2e247a"
 	}
 ],
 "players": [
@@ -45,7 +44,7 @@
 		"nationality": "BEL",
 		"role": "GOALKEEPER",
 		"number": 26,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "GRAY",
 		"hairStyle": "THINNING_A",
 		"value": 16
@@ -56,7 +55,7 @@
 		"nationality": "ITA",
 		"role": "RIGHT_BACK",
 		"number": 37,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "GRAY",
 		"hairStyle": "SMOOTH_A",
 		"skills": {
@@ -78,7 +77,7 @@
 		"nationality": "ESP",
 		"role": "LEFT_BACK",
 		"number": 3,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "RED",
 		"hairStyle": "SPECIAL_B",
 		"skills": {
@@ -132,8 +131,8 @@
 		"role": "DEFENDER",
 		"number": 5,
 		"skinColor": "MULATTO",
-		"hairColor": "PUNK_FUCHSIA",
-		"hairStyle": "PIGTAIL_B",
+		"hairColor": "BLACK",
+		"hairStyle": "SHORT_B",
 		"skills": {
 			"passing": 5,
 			"shooting": 3,
@@ -157,7 +156,7 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 8,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "PLATINUM",
 		"hairStyle": "SMOOTH_O",
 		"skills": {
@@ -183,7 +182,7 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 10,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "BLOND",
 		"hairStyle": "SMOOTH_H",
 		"skills": {
@@ -252,7 +251,7 @@
 		"nationality": "BRA",
 		"role": "DEFENDER",
 		"number": 19,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "PLATINUM",
 		"hairStyle": "SMOOTH_D",
 		"skills": {
@@ -300,8 +299,8 @@
 		"nationality": "BRA",
 		"role": "GOALKEEPER",
 		"number": 13,
-		"skinColor": "ALIEN",
-		"hairColor": "PUNK_FUCHSIA",
+		"skinColor": "RED",
+		"hairColor": "BLACK",
 		"hairStyle": "CURLY_D",
 		"value": 35
 	},
@@ -311,8 +310,8 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 21,
-		"skinColor": "BLACK",
-		"hairColor": "PUNK_FUCHSIA",
+		"skinColor": "PINK",
+		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_G",
 		"skills": {
 			"passing": 3,
@@ -360,7 +359,7 @@
 		"role": "LEFT_BACK",
 		"number": 4,
 		"skinColor": "ASIATIC",
-		"hairColor": "WHITE",
+		"hairColor": "GRAY",
 		"hairStyle": "SHORT_C",
 		"skills": {
 			"passing": 3,
@@ -380,7 +379,7 @@
 		"role": "DEFENDER",
 		"number": 11,
 		"skinColor": "MULATTO",
-		"hairColor": "PLATINUM",
+		"hairColor": "RED",
 		"hairStyle": "CURLY_C",
 		"skills": {
 			"passing": 2,
@@ -403,7 +402,7 @@
 		"role": "GOALKEEPER",
 		"number": 18,
 		"skinColor": "PALE",
-		"hairColor": "WHITE",
+		"hairColor": "GRAY",
 		"hairStyle": "SPECIAL_A",
 		"value": 32
 	},
@@ -413,7 +412,7 @@
 		"nationality": "BRA",
 		"role": "MIDFIELDER",
 		"number": 12,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "GRAY",
 		"hairStyle": "SHORT_B",
 		"skills": {
@@ -434,7 +433,7 @@
 		"role": "MIDFIELDER",
 		"number": 22,
 		"skinColor": "MULATTO",
-		"hairColor": "WHITE",
+		"hairColor": "GRAY",
 		"hairStyle": "SHAVED",
 		"skills": {
 			"passing": 3,
@@ -460,7 +459,7 @@
 		"role": "ATTACKER",
 		"number": 29,
 		"skinColor": "ARAB",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "SPECIAL_H",
 		"skills": {
 			"passing": 5,
@@ -510,7 +509,7 @@
 		"role": "MIDFIELDER",
 		"number": 24,
 		"skinColor": "PALE",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_J",
 		"skills": {
 			"passing": 3,
@@ -532,7 +531,7 @@
 		"nationality": "ESP",
 		"role": "RIGHT_BACK",
 		"number": 34,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "BROWN",
 		"hairStyle": "SHAVED",
 		"skills": {
@@ -549,14 +548,14 @@
 		]
 	},
 	{
-		"name": "OLEKSANDR VOLODYMYROVYCH ZINCHENKO",
+		"name": "OLEKSANDR VOLODYMYROVYCH",
 		"shirtName": "ZINCHENKO",
 		"nationality": "UKR",
 		"role": "LEFT_BACK",
 		"number": 35,
-		"skinColor": "ASIATIC",
-		"hairColor": "WHITE",
-		"hairStyle": "THINNING_C",
+		"skinColor": "PALE",
+		"hairColor": "PUNK_BLOND",
+		"hairStyle": "THINNING_B",
 		"skills": {
 			"passing": 4,
 			"shooting": 1,
@@ -577,8 +576,8 @@
 		"nationality": "ESP",
 		"role": "DEFENDER",
 		"number": 9,
-		"skinColor": "MULATTO",
-		"hairColor": "WHITE",
+		"skinColor": "BLACK",
+		"hairColor": "GRAY",
 		"hairStyle": "SMOOTH_F",
 		"skills": {
 			"passing": 5,
@@ -601,7 +600,7 @@
 		"nationality": "BRA",
 		"role": "DEFENDER",
 		"number": 23,
-		"skinColor": "ASIATIC",
+		"skinColor": "ARAB",
 		"hairColor": "BROWN",
 		"hairStyle": "SMOOTH_I",
 		"skills": {

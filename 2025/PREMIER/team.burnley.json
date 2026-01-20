@@ -1,6 +1,5 @@
 {
-  "_comment": "Burnley 2025-26",
-"name": "BURNLEY",
+"name": "BURNLEY FC",
 "type": "CLUB",
 "country": "ESP",
 "league": "HISTÓRICOS",
@@ -14,28 +13,28 @@
 "tactics": "4-4-2",
 "kits": [
 	{
-		"style": "LARGE_STRIPS",
-		"shirt1": "#99c3a5",
-		"shirt2": "#e9ebbe",
-		"shirt3": "#ffb91d",
-		"shorts": "#23b36e",
-		"socks": "#11f634"
+		"style": "PLAIN",
+		"shirt1": "#993333",
+		"shirt2": "#47bfeb",
+		"shirt3": "#47bfeb",
+		"shorts": "#dfe8eb",
+		"socks": "#47bfeb"
 	},
 	{
-		"style": "HORIZONTAL",
-		"shirt1": "#375859",
-		"shirt2": "#9e38be",
-		"shirt3": "#2f6a3b",
-		"shorts": "#0ba366",
-		"socks": "#019b1b"
+		"style": "PLAIN",
+		"shirt1": "#47bfeb",
+		"shirt2": "#993333",
+		"shirt3": "#993333",
+		"shorts": "#47bfeb",
+		"socks": "#dfe8eb"
 	},
 	{
-		"style": "HORIZONTAL",
-		"shirt1": "#dd65b5",
-		"shirt2": "#daae23",
-		"shirt3": "#6860e9",
-		"shorts": "#aa7323",
-		"socks": "#0d139e"
+		"style": "PLAIN",
+		"shirt1": "#1e1e1e",
+		"shirt2": "#ffd200",
+		"shirt3": "#ffd200",
+		"shorts": "#1e1e1e",
+		"socks": "#1e1e1e"
 	}
 ],
 "players": [
@@ -45,7 +44,7 @@
 		"nationality": "SVK",
 		"role": "GOALKEEPER",
 		"number": 1,
-		"skinColor": "ASIATIC",
+		"skinColor": "ARAB",
 		"hairColor": "BROWN",
 		"hairStyle": "CURLY_F",
 		"value": 26
@@ -57,7 +56,7 @@
 		"role": "RIGHT_BACK",
 		"number": 2,
 		"skinColor": "RED",
-		"hairColor": "WHITE",
+		"hairColor": "PUNK_BLOND",
 		"hairStyle": "SPECIAL_D",
 		"skills": {
 			"passing": 2,
@@ -82,8 +81,8 @@
 		"nationality": "ESP",
 		"role": "LEFT_BACK",
 		"number": 3,
-		"skinColor": "ALIEN",
-		"hairColor": "WHITE",
+		"skinColor": "RED",
+		"hairColor": "PUNK_BLOND",
 		"hairStyle": "CURLY_A",
 		"skills": {
 			"passing": 3,
@@ -155,7 +154,7 @@
 		"nationality": "FRA",
 		"role": "MIDFIELDER",
 		"number": 5,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "BLOND",
 		"hairStyle": "CURLY_D",
 		"skills": {
@@ -181,7 +180,7 @@
 		"nationality": "FRA",
 		"role": "MIDFIELDER",
 		"number": 8,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "PLATINUM",
 		"hairStyle": "SMOOTH_D",
 		"skills": {
@@ -226,7 +225,7 @@
 		]
 	},
 	{
-		"name": "JOSHUA ISHAELE JACOB-HERON HUNT-LAURENT",
+		"name": "JOSHUA ISHAELE JACOB-HERON",
 		"shirtName": "LAURENT",
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
@@ -337,8 +336,8 @@
 		"nationality": "ESP",
 		"role": "ATTACKER",
 		"number": 17,
-		"skinColor": "ALIEN",
-		"hairColor": "WHITE",
+		"skinColor": "RED",
+		"hairColor": "BLACK",
 		"hairStyle": "CURLY_D",
 		"skills": {
 			"passing": 3,
@@ -363,8 +362,8 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 19,
-		"skinColor": "BLACK",
-		"hairColor": "PUNK_FUCHSIA",
+		"skinColor": "PINK",
+		"hairColor": "BLACK",
 		"hairStyle": "SPECIAL_D",
 		"skills": {
 			"passing": 2,
@@ -386,7 +385,7 @@
 		"role": "DEFENDER",
 		"number": 27,
 		"skinColor": "PINK",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "SPECIAL_E",
 		"skills": {
 			"passing": 5,
@@ -491,7 +490,7 @@
 		"role": "LEFT_BACK",
 		"number": 23,
 		"skinColor": "RED",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_A",
 		"skills": {
 			"passing": 2,
@@ -515,7 +514,7 @@
 		"role": "LEFT_BACK",
 		"number": 12,
 		"skinColor": "RED",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_C",
 		"skills": {
 			"passing": 3,
@@ -539,7 +538,7 @@
 		"role": "DEFENDER",
 		"number": 22,
 		"skinColor": "PINK",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "SHORT_C",
 		"skills": {
 			"passing": 0,

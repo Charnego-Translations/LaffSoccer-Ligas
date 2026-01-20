@@ -1,6 +1,5 @@
 {
-  "_comment": "Tottenham 2025-26",
-"name": "TOTTENHAM",
+"name": "TOTTENHAM FC",
 "type": "CLUB",
 "country": "ESP",
 "league": "HISTÓRICOS",
@@ -14,28 +13,28 @@
 "tactics": "4-4-2",
 "kits": [
 	{
-		"style": "VERTICAL_HALF",
-		"shirt1": "#cb3104",
-		"shirt2": "#bae8be",
-		"shirt3": "#e639e0",
-		"shorts": "#4f0a84",
-		"socks": "#df80a8"
-	},
-	{
 		"style": "SPICE",
-		"shirt1": "#f3627a",
-		"shirt2": "#2cc8e9",
-		"shirt3": "#2ccf53",
-		"shorts": "#7fce67",
-		"socks": "#52a637"
+		"shirt1": "#dfe8eb",
+		"shirt2": "#2e247a",
+		"shirt3": "#2e247a",
+		"shorts": "#2e247a",
+		"socks": "#dfe8eb"
 	},
 	{
-		"style": "TWO_STRIPES",
-		"shirt1": "#39ef21",
-		"shirt2": "#a1ecc9",
-		"shirt3": "#ea0778",
-		"shorts": "#4b43f3",
-		"socks": "#78bc3d"
+		"style": "PLAIN",
+		"shirt1": "#1e1e1e",
+		"shirt2": "#949494",
+		"shirt3": "#949494",
+		"shorts": "#1e1e1e",
+		"socks": "#1e1e1e"
+	},
+	{
+		"style": "SIDE_LINES",
+		"shirt1": "#e8ef2f",
+		"shirt2": "#1e1e1e",
+		"shirt3": "#1e1e1e",
+		"shorts": "#e8ef2f",
+		"socks": "#e8ef2f"
 	}
 ],
 "players": [
@@ -45,7 +44,7 @@
 		"nationality": "ITA",
 		"role": "GOALKEEPER",
 		"number": 1,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_B",
 		"value": 19
@@ -57,7 +56,7 @@
 		"role": "RIGHT_BACK",
 		"number": 23,
 		"skinColor": "RED",
-		"hairColor": "WHITE",
+		"hairColor": "BLACK",
 		"hairStyle": "SPECIAL_C",
 		"skills": {
 			"passing": 5,
@@ -79,7 +78,7 @@
 		"role": "LEFT_BACK",
 		"number": 24,
 		"skinColor": "MULATTO",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_D",
 		"skills": {
 			"passing": 4,
@@ -104,7 +103,7 @@
 		"role": "DEFENDER",
 		"number": 37,
 		"skinColor": "ASIATIC",
-		"hairColor": "WHITE",
+		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_A",
 		"skills": {
 			"passing": 4,
@@ -146,7 +145,7 @@
 		"role": "MIDFIELDER",
 		"number": 30,
 		"skinColor": "PINK",
-		"hairColor": "WHITE",
+		"hairColor": "BLACK",
 		"hairStyle": "SPECIAL_B",
 		"skills": {
 			"passing": 3,
@@ -162,7 +161,7 @@
 		]
 	},
 	{
-		"name": "JOÃO MARIA LOBO ALVES PALHINHA GONÇALVES",
+		"name": "JOÃO MARIA LOBO ALVES PALHINHA",
 		"shirtName": "PALHINHA",
 		"nationality": "POR",
 		"role": "MIDFIELDER",
@@ -238,7 +237,7 @@
 		"role": "ATTACKER",
 		"number": 9,
 		"skinColor": "MULATTO",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "PIGTAIL_C",
 		"skills": {
 			"passing": 2,
@@ -264,7 +263,7 @@
 		"nationality": "FRA",
 		"role": "DEFENDER",
 		"number": 39,
-		"skinColor": "ASIATIC",
+		"skinColor": "PALE",
 		"hairColor": "BLOND",
 		"hairStyle": "SPECIAL_F",
 		"skills": {
@@ -284,8 +283,8 @@
 		"nationality": "CZE",
 		"role": "GOALKEEPER",
 		"number": 31,
-		"skinColor": "ASIATIC",
-		"hairColor": "BLACK",
+		"skinColor": "PALE",
+		"hairColor": "PLATINUM",
 		"hairStyle": "SMOOTH_O",
 		"value": 34
 	},
@@ -296,7 +295,7 @@
 		"role": "ATTACKER",
 		"number": 28,
 		"skinColor": "PINK",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "CURLY_A",
 		"skills": {
 			"passing": 3,
@@ -457,8 +456,8 @@
 		"nationality": "ESP",
 		"role": "DEFENDER",
 		"number": 14,
-		"skinColor": "BLACK",
-		"hairColor": "PUNK_FUCHSIA",
+		"skinColor": "PINK",
+		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_F",
 		"skills": {
 			"passing": 3,
@@ -581,7 +580,7 @@
 		"number": 3,
 		"skinColor": "ASIATIC",
 		"hairColor": "BLOND",
-		"hairStyle": "SPECIAL_G",
+		"hairStyle": "SPECIAL_H",
 		"skills": {
 			"passing": 6,
 			"shooting": 1,
@@ -604,7 +603,7 @@
 		"nationality": "CRO",
 		"role": "DEFENDER",
 		"number": 16,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "BLOND",
 		"hairStyle": "SMOOTH_M",
 		"skills": {

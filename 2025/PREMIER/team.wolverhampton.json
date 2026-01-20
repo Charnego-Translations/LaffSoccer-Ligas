@@ -1,6 +1,5 @@
 {
-  "_comment": "Wolverhampton 2025-26",
-"name": "WOLVERHAMPTON",
+"name": "WOLVERHAMPTON FC",
 "type": "CLUB",
 "country": "ESP",
 "league": "HISTÓRICOS",
@@ -14,28 +13,28 @@
 "tactics": "4-4-2",
 "kits": [
 	{
-		"style": "CHECK",
-		"shirt1": "#50516e",
-		"shirt2": "#561703",
-		"shirt3": "#3df3ee",
-		"shorts": "#ec5d7a",
-		"socks": "#b2fafb"
+		"style": "PLAIN",
+		"shirt1": "#ffd200",
+		"shirt2": "#1e1e1e",
+		"shirt3": "#1e1e1e",
+		"shorts": "#1e1e1e",
+		"socks": "#ffd200"
 	},
 	{
-		"style": "CHECK",
-		"shirt1": "#2d56b1",
-		"shirt2": "#4da6ad",
-		"shirt3": "#f1cf02",
-		"shorts": "#028022",
-		"socks": "#9d477e"
+		"style": "PLAIN",
+		"shirt1": "#47bfeb",
+		"shirt2": "#3033c1",
+		"shirt3": "#3033c1",
+		"shorts": "#3033c1",
+		"socks": "#47bfeb"
 	},
 	{
-		"style": "ARMBAND",
-		"shirt1": "#b1a364",
-		"shirt2": "#58eb87",
-		"shirt3": "#2a5078",
-		"shorts": "#8f2cc2",
-		"socks": "#5c5201"
+		"style": "PLAIN",
+		"shirt1": "#0b7dd5",
+		"shirt2": "#e8ef2f",
+		"shirt3": "#e8ef2f",
+		"shorts": "#dfe8eb",
+		"socks": "#0b7dd5"
 	}
 ],
 "players": [
@@ -57,7 +56,7 @@
 		"role": "DEFENDER",
 		"number": 37,
 		"skinColor": "MULATTO",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "PLATINUM",
 		"hairStyle": "SPECIAL_C",
 		"skills": {
 			"passing": 5,
@@ -78,8 +77,8 @@
 		"nationality": "ESP",
 		"role": "LEFT_BACK",
 		"number": 3,
-		"skinColor": "ASIATIC",
-		"hairColor": "PUNK_FUCHSIA",
+		"skinColor": "PALE",
+		"hairColor": "BLACK",
 		"hairStyle": "SPECIAL_F",
 		"skills": {
 			"passing": 4,
@@ -103,7 +102,7 @@
 		"number": 24,
 		"skinColor": "RED",
 		"hairColor": "RED",
-		"hairStyle": "SPECIAL_G",
+		"hairStyle": "SMOOTH_A",
 		"skills": {
 			"passing": 4,
 			"shooting": 4,
@@ -121,12 +120,12 @@
 		]
 	},
 	{
-		"name": "EMMANUEL ELYSEE DJEDJE AGBADOU BADOBRE",
+		"name": "EMMANUEL ELYSEE DJEDJE AGBADOU",
 		"shirtName": "AGBADOU",
 		"nationality": "CIV",
 		"role": "DEFENDER",
 		"number": 12,
-		"skinColor": "RED",
+		"skinColor": "BLACK",
 		"hairColor": "RED",
 		"hairStyle": "SMOOTH_P",
 		"skills": {
@@ -148,7 +147,7 @@
 		"nationality": "BRA",
 		"role": "MIDFIELDER",
 		"number": 8,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "WHITE",
 		"hairStyle": "CURLY_E",
 		"skills": {
@@ -174,7 +173,7 @@
 		"nationality": "BRA",
 		"role": "MIDFIELDER",
 		"number": 7,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "WHITE",
 		"hairStyle": "SPECIAL_F",
 		"skills": {
@@ -194,7 +193,7 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 27,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "BLACK",
 		"hairStyle": "SPECIAL_H",
 		"skills": {
@@ -265,7 +264,7 @@
 		"nationality": "ESP",
 		"role": "DEFENDER",
 		"number": 11,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "BLOND",
 		"hairStyle": "PIGTAIL_B",
 		"skills": {
@@ -287,7 +286,7 @@
 		"nationality": "POR",
 		"role": "GOALKEEPER",
 		"number": 1,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "BLACK",
 		"hairStyle": "SPECIAL_A",
 		"value": 19
@@ -350,7 +349,7 @@
 		"nationality": "ESP",
 		"role": "DEFENDER",
 		"number": 14,
-		"skinColor": "RED",
+		"skinColor": "BLACK",
 		"hairColor": "RED",
 		"hairStyle": "BALD_A",
 		"skills": {
@@ -375,8 +374,8 @@
 		"nationality": "NOR",
 		"role": "LEFT_BACK",
 		"number": 6,
-		"skinColor": "ALIEN",
-		"hairColor": "PUNK_FUCHSIA",
+		"skinColor": "RED",
+		"hairColor": "BLACK",
 		"hairStyle": "SHORT_B",
 		"skills": {
 			"passing": 4,
@@ -410,7 +409,7 @@
 		"nationality": "COL",
 		"role": "DEFENDER",
 		"number": 15,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "RED",
 		"hairStyle": "THINNING_B",
 		"skills": {
@@ -474,8 +473,8 @@
 		"nationality": "ESP",
 		"role": "RIGHT_BACK",
 		"number": 26,
-		"skinColor": "ALIEN",
-		"hairColor": "PUNK_FUCHSIA",
+		"skinColor": "BLACK",
+		"hairColor": "BLACK",
 		"hairStyle": "CURLY_B",
 		"skills": {
 			"passing": 5,
@@ -575,9 +574,9 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 23,
-		"skinColor": "ASIATIC",
+		"skinColor": "PALE",
 		"hairColor": "GRAY",
-		"hairStyle": "BALD_B",
+		"hairStyle": "CURLY_A",
 		"skills": {
 			"passing": 4,
 			"shooting": 3,

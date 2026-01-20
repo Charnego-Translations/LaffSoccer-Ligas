@@ -1,5 +1,4 @@
 {
-  "_comment": "Manchester United 2025-26",
 "name": "MANCHESTER UNITED",
 "type": "CLUB",
 "country": "ESP",
@@ -14,28 +13,28 @@
 "tactics": "4-4-2",
 "kits": [
 	{
-		"style": "SPICE",
-		"shirt1": "#a8a1f7",
-		"shirt2": "#377755",
-		"shirt3": "#c88b56",
-		"shorts": "#049bf6",
-		"socks": "#5cfd8c"
+		"style": "SIDE_LINES",
+		"shirt1": "#f61c1c",
+		"shirt2": "#1e1e1e",
+		"shirt3": "#1e1e1e",
+		"shorts": "#dfe8eb",
+		"socks": "#1e1e1e"
 	},
 	{
-		"style": "BIG_V",
-		"shirt1": "#301f94",
-		"shirt2": "#4fd043",
-		"shirt3": "#676441",
-		"shorts": "#63fa57",
-		"socks": "#6f4792"
+		"style": "ARMBAND",
+		"shirt1": "#dfe8eb",
+		"shirt2": "#5d2399",
+		"shirt3": "#5d2399",
+		"shorts": "#5d2399",
+		"socks": "#dfe8eb"
 	},
 	{
-		"style": "STRIP",
-		"shirt1": "#e3abac",
-		"shirt2": "#58faaa",
-		"shirt3": "#190a43",
-		"shorts": "#5e315d",
-		"socks": "#ef7f8e"
+		"style": "ARMBAND",
+		"shirt1": "#1e1e1e",
+		"shirt2": "#ffd200",
+		"shirt3": "#ffd200",
+		"shorts": "#1e1e1e",
+		"socks": "#1e1e1e"
 	}
 ],
 "players": [
@@ -45,7 +44,7 @@
 		"nationality": "BEL",
 		"role": "GOALKEEPER",
 		"number": 31,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_D",
 		"value": 19
@@ -80,7 +79,7 @@
 		"nationality": "POR",
 		"role": "LEFT_BACK",
 		"number": 2,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "RED",
 		"hairStyle": "SPECIAL_F",
 		"skills": {
@@ -102,9 +101,9 @@
 		"nationality": "ESP",
 		"role": "DEFENDER",
 		"number": 23,
-		"skinColor": "ASIATIC",
+		"skinColor": "PALE",
 		"hairColor": "PLATINUM",
-		"hairStyle": "BALD_A",
+		"hairStyle": "CURLY_A",
 		"skills": {
 			"passing": 4,
 			"shooting": 2,
@@ -129,8 +128,8 @@
 		"nationality": "ESP",
 		"role": "DEFENDER",
 		"number": 4,
-		"skinColor": "ASIATIC",
-		"hairColor": "PUNK_FUCHSIA",
+		"skinColor": "PALE",
+		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_I",
 		"skills": {
 			"passing": 2,
@@ -151,7 +150,7 @@
 		"nationality": "FRA",
 		"role": "DEFENDER",
 		"number": 15,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "RED",
 		"hairStyle": "SMOOTH_B",
 		"skills": {
@@ -172,7 +171,7 @@
 		]
 	},
 	{
-		"name": "CARLOS HENRIQUE JOSÉ FRANCISCO VENANCIO CASIMIRO",
+		"name": "CARLOS HENRIQUE JOSÉ FRANCISCO",
 		"shirtName": "CASEMIRO",
 		"nationality": "BRA",
 		"role": "MIDFIELDER",
@@ -201,7 +200,7 @@
 		"nationality": "POR",
 		"role": "MIDFIELDER",
 		"number": 8,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "RED",
 		"hairStyle": "SMOOTH_B",
 		"skills": {
@@ -226,7 +225,7 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 7,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "PLATINUM",
 		"hairStyle": "SMOOTH_E",
 		"skills": {
@@ -353,7 +352,7 @@
 		"nationality": "URU",
 		"role": "MIDFIELDER",
 		"number": 25,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "PLATINUM",
 		"hairStyle": "SMOOTH_D",
 		"skills": {
@@ -376,7 +375,7 @@
 		"nationality": "ESP",
 		"role": "DEFENDER",
 		"number": 26,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "BROWN",
 		"hairStyle": "SPECIAL_B",
 		"skills": {
@@ -414,7 +413,7 @@
 		"role": "DEFENDER",
 		"number": 11,
 		"skinColor": "RED",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_D",
 		"skills": {
 			"passing": 2,
@@ -555,7 +554,7 @@
 		"nationality": "ESP",
 		"role": "ATTACKER",
 		"number": 61,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "PLATINUM",
 		"hairStyle": "SHORT_B",
 		"skills": {
@@ -582,7 +581,7 @@
 		"nationality": "ESP",
 		"role": "LEFT_BACK",
 		"number": 12,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "WHITE",
 		"hairStyle": "SPECIAL_B",
 		"skills": {

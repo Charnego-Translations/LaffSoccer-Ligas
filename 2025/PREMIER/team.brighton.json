@@ -1,6 +1,5 @@
 {
-  "_comment": "Brighton 2025-26",
-"name": "BRIGHTON",
+"name": "BRIGHTON FC",
 "type": "CLUB",
 "country": "ESP",
 "league": "HISTÓRICOS",
@@ -9,33 +8,33 @@
 "year": 2025,
 "coach": {
 	"name": "FABIAN MARC HÜRZELER",
-	"nationality": "ESP"
+	"nationality": "GER"
 },
 "tactics": "4-4-2",
 "kits": [
 	{
-		"style": "DIAGONAL_HALF",
-		"shirt1": "#22f5b1",
-		"shirt2": "#385f8b",
-		"shirt3": "#a51ee6",
-		"shorts": "#ab97d9",
-		"socks": "#c2ff8c"
+		"style": "VERTICAL",
+		"shirt1": "#dfe8eb",
+		"shirt2": "#3033c1",
+		"shirt3": "#3033c1",
+		"shorts": "#3033c1",
+		"socks": "#3033c1"
 	},
 	{
-		"style": "TWO_STRIPES",
-		"shirt1": "#784421",
-		"shirt2": "#2b8057",
-		"shirt3": "#e27a32",
-		"shorts": "#fbb8a5",
-		"socks": "#6e1123"
+		"style": "BAND",
+		"shirt1": "#5d2399",
+		"shirt2": "#47bfeb",
+		"shirt3": "#47bfeb",
+		"shorts": "#5d2399",
+		"socks": "#5d2399"
 	},
 	{
-		"style": "BIG_CHECK",
-		"shirt1": "#cf75af",
-		"shirt2": "#3ef648",
-		"shirt3": "#6409a6",
-		"shorts": "#516748",
-		"socks": "#3e0dd8"
+		"style": "VERTICAL",
+		"shirt1": "#1e1e1e",
+		"shirt2": "#e8ef2f",
+		"shirt3": "#e8ef2f",
+		"shorts": "#e8ef2f",
+		"socks": "#e8ef2f"
 	}
 ],
 "players": [
@@ -45,7 +44,7 @@
 		"nationality": "ESP",
 		"role": "GOALKEEPER",
 		"number": 1,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "GRAY",
 		"hairStyle": "PIGTAIL_B",
 		"value": 10
@@ -83,7 +82,7 @@
 		"nationality": "BEL",
 		"role": "LEFT_BACK",
 		"number": 29,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "GRAY",
 		"hairStyle": "SPECIAL_E",
 		"skills": {
@@ -126,7 +125,7 @@
 		"nationality": "ESP",
 		"role": "DEFENDER",
 		"number": 5,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "BLOND",
 		"hairStyle": "SPECIAL_G",
 		"skills": {
@@ -176,7 +175,7 @@
 		"nationality": "PAR",
 		"role": "MIDFIELDER",
 		"number": 25,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "WHITE",
 		"hairStyle": "PIGTAIL_C",
 		"skills": {
@@ -238,8 +237,8 @@
 		"nationality": "ESP",
 		"role": "ATTACKER",
 		"number": 11,
-		"skinColor": "MULATTO",
-		"hairColor": "WHITE",
+		"skinColor": "BLACK",
+		"hairColor": "GRAY",
 		"hairStyle": "THINNING_C",
 		"skills": {
 			"passing": 1,
@@ -287,7 +286,7 @@
 		"nationality": "ESP",
 		"role": "GOALKEEPER",
 		"number": 23,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "RED",
 		"hairStyle": "SMOOTH_D",
 		"value": 39
@@ -406,7 +405,7 @@
 		"nationality": "ESP",
 		"role": "RIGHT_BACK",
 		"number": 34,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_K",
 		"skills": {
@@ -453,7 +452,7 @@
 		"nationality": "ESP",
 		"role": "DEFENDER",
 		"number": 19,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "BROWN",
 		"hairStyle": "SMOOTH_O",
 		"skills": {
@@ -478,7 +477,7 @@
 		"nationality": "ESP",
 		"role": "DEFENDER",
 		"number": 9,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "BLOND",
 		"hairStyle": "CURLY_B",
 		"skills": {
@@ -554,7 +553,7 @@
 		"role": "ATTACKER",
 		"number": 14,
 		"skinColor": "PALE",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_E",
 		"skills": {
 			"passing": 0,

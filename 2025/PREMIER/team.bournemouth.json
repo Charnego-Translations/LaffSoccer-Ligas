@@ -1,6 +1,5 @@
 {
-  "_comment": "Bournemouth 2025-26",
-"name": "BOURNEMOUTH",
+"name": "AFC BOURNEMOUTH",
 "type": "CLUB",
 "country": "ESP",
 "league": "HISTÓRICOS",
@@ -14,28 +13,28 @@
 "tactics": "4-4-2",
 "kits": [
 	{
-		"style": "CROSS",
-		"shirt1": "#f57144",
-		"shirt2": "#126b3e",
-		"shirt3": "#fb4fb5",
-		"shorts": "#6d8034",
-		"socks": "#861430"
+		"style": "VERTICAL",
+		"shirt1": "#1e1e1e",
+		"shirt2": "#f61c1c",
+		"shirt3": "#f61c1c",
+		"shorts": "#1e1e1e",
+		"socks": "#1e1e1e"
 	},
 	{
-		"style": "BAND",
-		"shirt1": "#54c0ab",
-		"shirt2": "#c6641d",
-		"shirt3": "#ad36a1",
-		"shorts": "#65804c",
-		"socks": "#a51be9"
+		"style": "LARGE_STRIPS",
+		"shirt1": "#3033c1",
+		"shirt2": "#1e1e1e",
+		"shirt3": "#1e1e1e",
+		"shorts": "#3033c1",
+		"socks": "#3033c1"
 	},
 	{
-		"style": "TWO_STRIPES",
-		"shirt1": "#6216f2",
-		"shirt2": "#827ced",
-		"shirt3": "#8e3287",
-		"shorts": "#e07b8d",
-		"socks": "#fdc17d"
+		"style": "SLEEVES",
+		"shirt1": "#cac47d",
+		"shirt2": "#f59ee1",
+		"shirt3": "#f59ee1",
+		"shorts": "#f59ee1",
+		"socks": "#f59ee1"
 	}
 ],
 "players": [
@@ -46,7 +45,7 @@
 		"role": "GOALKEEPER",
 		"number": 1,
 		"skinColor": "RED",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "SPECIAL_A",
 		"value": 25
 	},
@@ -56,8 +55,8 @@
 		"nationality": "ESP",
 		"role": "RIGHT_BACK",
 		"number": 20,
-		"skinColor": "BLACK",
-		"hairColor": "PUNK_FUCHSIA",
+		"skinColor": "PINK",
+		"hairColor": "BLACK",
 		"hairStyle": "CURLY_C",
 		"skills": {
 			"passing": 5,
@@ -221,7 +220,7 @@
 		"nationality": "ESP",
 		"role": "ATTACKER",
 		"number": 24,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "WHITE",
 		"hairStyle": "SHORT_B",
 		"skills": {
@@ -242,13 +241,13 @@
 		]
 	},
 	{
-		"name": "FRANCISCO EVANILSON DE LIMA BARBOSA",
+		"name": "FRANCISCO EVANILSON DE LIMA",
 		"shirtName": "EVANILSON",
 		"nationality": "BRA",
 		"role": "ATTACKER",
 		"number": 9,
-		"skinColor": "ALIEN",
-		"hairColor": "PUNK_FUCHSIA",
+		"skinColor": "RED",
+		"hairColor": "BLACK",
 		"hairStyle": "CURLY_A",
 		"skills": {
 			"passing": 2,
@@ -267,7 +266,7 @@
 		"nationality": "ESP",
 		"role": "ATTACKER",
 		"number": 19,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "BROWN",
 		"hairStyle": "SMOOTH_A",
 		"skills": {
@@ -294,7 +293,7 @@
 		"nationality": "ESP",
 		"role": "GOALKEEPER",
 		"number": 40,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "BLOND",
 		"hairStyle": "SPECIAL_A",
 		"value": 29
@@ -320,12 +319,12 @@
 		"bestSkills": []
 	},
 	{
-		"name": "ELI JUNIOR ÉRIC ANATOLE RAINHA KROUPI",
+		"name": "ELI JUNIOR ÉRIC ANATOLE RAINHA",
 		"shirtName": "KROUPI",
 		"nationality": "FRA",
 		"role": "MIDFIELDER",
 		"number": 22,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "BROWN",
 		"hairStyle": "SPECIAL_D",
 		"skills": {
@@ -348,7 +347,7 @@
 		"nationality": "MAR",
 		"role": "ATTACKER",
 		"number": 21,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "GRAY",
 		"hairStyle": "SMOOTH_D",
 		"skills": {
@@ -368,7 +367,7 @@
 		"nationality": "ESP",
 		"role": "RIGHT_BACK",
 		"number": 15,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "WHITE",
 		"hairStyle": "SMOOTH_G",
 		"skills": {
@@ -450,7 +449,7 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 10,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "RED",
 		"hairStyle": "SMOOTH_B",
 		"skills": {
@@ -492,9 +491,9 @@
 		"nationality": "TUR",
 		"role": "DEFENDER",
 		"number": 26,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "RED",
-		"hairStyle": "SPECIAL_G",
+		"hairStyle": "CURLY_D",
 		"skills": {
 			"passing": 5,
 			"shooting": 4,
@@ -566,8 +565,8 @@
 		"nationality": "MEX",
 		"role": "RIGHT_BACK",
 		"number": 2,
-		"skinColor": "BLACK",
-		"hairColor": "PUNK_FUCHSIA",
+		"skinColor": "PALE",
+		"hairColor": "BLACK",
 		"hairStyle": "SHORT_C",
 		"skills": {
 			"passing": 4,
@@ -589,8 +588,8 @@
 		"nationality": "CIV",
 		"role": "MIDFIELDER",
 		"number": 25,
-		"skinColor": "ASIATIC",
-		"hairColor": "WHITE",
+		"skinColor": "BLACK",
+		"hairColor": "BLACK",
 		"hairStyle": "SPECIAL_H",
 		"skills": {
 			"passing": 4,

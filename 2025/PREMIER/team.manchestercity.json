@@ -1,5 +1,4 @@
 {
-  "_comment": "Manchester City 2025-26",
 "name": "MANCHESTER CITY",
 "type": "CLUB",
 "country": "ESP",
@@ -15,27 +14,27 @@
 "kits": [
 	{
 		"style": "DIAGONAL",
-		"shirt1": "#0bde11",
-		"shirt2": "#d32b39",
-		"shirt3": "#104195",
-		"shorts": "#0f10f9",
-		"socks": "#53085d"
+		"shirt1": "#47bfeb",
+		"shirt2": "#dfe8eb",
+		"shirt3": "#dfe8eb",
+		"shorts": "#dfe8eb",
+		"socks": "#47bfeb"
 	},
 	{
-		"style": "BIG_V",
-		"shirt1": "#fe9789",
-		"shirt2": "#4ba9d1",
-		"shirt3": "#c5b326",
-		"shorts": "#ed0776",
-		"socks": "#ad348a"
+		"style": "PLAIN",
+		"shirt1": "#1e1e1e",
+		"shirt2": "#1e1e1e",
+		"shirt3": "#1e1e1e",
+		"shorts": "#1e1e1e",
+		"socks": "#1e1e1e"
 	},
 	{
-		"style": "LINE",
-		"shirt1": "#2b6787",
-		"shirt2": "#772869",
-		"shirt3": "#216b29",
-		"shorts": "#2a7d93",
-		"socks": "#e01717"
+		"style": "SPICE",
+		"shirt1": "#949494",
+		"shirt2": "#81ff11",
+		"shirt3": "#81ff11",
+		"shorts": "#949494",
+		"socks": "#3033c1"
 	}
 ],
 "players": [
@@ -57,7 +56,7 @@
 		"role": "RIGHT_BACK",
 		"number": 27,
 		"skinColor": "BLACK",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_L",
 		"skills": {
 			"passing": 5,
@@ -132,7 +131,7 @@
 		]
 	},
 	{
-		"name": "BERNARDO MOTA VEIGA DE CARVALHO E SILVA",
+		"name": "BERNARDO MOTA VEIGA DE CARVALHO",
 		"shirtName": "BERNARDO SILVA",
 		"nationality": "POR",
 		"role": "MIDFIELDER",
@@ -163,7 +162,7 @@
 		"role": "MIDFIELDER",
 		"number": 33,
 		"skinColor": "PINK",
-		"hairColor": "WHITE",
+		"hairColor": "BLOND",
 		"hairStyle": "SMOOTH_B",
 		"skills": {
 			"passing": 1,
@@ -184,13 +183,13 @@
 		]
 	},
 	{
-		"name": "TIJJANI MARTINUS JAN REIJNDERS LEKATOMPESSY",
+		"name": "TIJJANI MARTINUS JAN REIJNDERS",
 		"shirtName": "REIJNDERS",
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 4,
 		"skinColor": "BLACK",
-		"hairColor": "WHITE",
+		"hairColor": "BLACK",
 		"hairStyle": "SHORT_C",
 		"skills": {
 			"passing": 2,
@@ -211,8 +210,8 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 14,
-		"skinColor": "ASIATIC",
-		"hairColor": "PUNK_FUCHSIA",
+		"skinColor": "ARAB",
+		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_F",
 		"skills": {
 			"passing": 3,
@@ -287,9 +286,9 @@
 		"nationality": "BEL",
 		"role": "ATTACKER",
 		"number": 11,
-		"skinColor": "BLACK",
-		"hairColor": "BROWN",
-		"hairStyle": "SPECIAL_D",
+		"skinColor": "PALE",
+		"hairColor": "BLACK",
+		"hairStyle": "THINNING_C",
 		"skills": {
 			"passing": 5,
 			"shooting": 2,
@@ -314,7 +313,7 @@
 		"nationality": "ESP",
 		"role": "GOALKEEPER",
 		"number": 1,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_F",
 		"value": 30
@@ -325,7 +324,7 @@
 		"nationality": "FRA",
 		"role": "MIDFIELDER",
 		"number": 10,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_F",
 		"skills": {
@@ -345,7 +344,7 @@
 		"nationality": "BRA",
 		"role": "ATTACKER",
 		"number": 26,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "WHITE",
 		"hairStyle": "SPECIAL_E",
 		"skills": {
@@ -398,7 +397,7 @@
 		"role": "ATTACKER",
 		"number": 52,
 		"skinColor": "MULATTO",
-		"hairColor": "RED",
+		"hairColor": "PLATINUM",
 		"hairStyle": "SMOOTH_B",
 		"skills": {
 			"passing": 2,
@@ -423,7 +422,7 @@
 		"nationality": "BRA",
 		"role": "GOALKEEPER",
 		"number": 31,
-		"skinColor": "ASIATIC",
+		"skinColor": "PALE",
 		"hairColor": "WHITE",
 		"hairStyle": "SPECIAL_C",
 		"value": 12
@@ -458,7 +457,7 @@
 		"nationality": "ESP",
 		"role": "RIGHT_BACK",
 		"number": 82,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "BLACK",
 		"hairStyle": "SPECIAL_D",
 		"skills": {
@@ -580,7 +579,7 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 63,
-		"skinColor": "MULATTO",
+		"skinColor": "BLACK",
 		"hairColor": "GRAY",
 		"hairStyle": "SMOOTH_H",
 		"skills": {
@@ -606,7 +605,7 @@
 		"nationality": "ESP",
 		"role": "DEFENDER",
 		"number": 68,
-		"skinColor": "BLACK",
+		"skinColor": "PALE",
 		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_D",
 		"skills": {

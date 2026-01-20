@@ -1,6 +1,5 @@
 {
-  "_comment": "Fulham 2025-26",
-"name": "FULHAM",
+"name": "FULHAM FC",
 "type": "CLUB",
 "country": "ESP",
 "league": "HISTÓRICOS",
@@ -14,28 +13,28 @@
 "tactics": "4-4-2",
 "kits": [
 	{
-		"style": "CHECK",
-		"shirt1": "#30e98b",
-		"shirt2": "#db53f7",
-		"shirt3": "#9278d0",
-		"shorts": "#301081",
-		"socks": "#cdf0ad"
+		"style": "SIDE_LINES",
+		"shirt1": "#dfe8eb",
+		"shirt2": "#1e1e1e",
+		"shirt3": "#1e1e1e",
+		"shorts": "#dfe8eb",
+		"socks": "#dfe8eb"
 	},
 	{
-		"style": "HORIZONTAL",
-		"shirt1": "#e57d36",
-		"shirt2": "#77b27b",
-		"shirt3": "#b27897",
-		"shorts": "#5560a7",
-		"socks": "#6f3093"
+		"style": "SPICE",
+		"shirt1": "#81ff11",
+		"shirt2": "#3033c1",
+		"shirt3": "#3033c1",
+		"shorts": "#3033c1",
+		"socks": "#3033c1"
 	},
 	{
-		"style": "BAND",
-		"shirt1": "#3a5b4f",
-		"shirt2": "#b59c3a",
-		"shirt3": "#84d2f1",
-		"shorts": "#e3e620",
-		"socks": "#052ae9"
+		"style": "SIDE_LINES",
+		"shirt1": "#1e1e1e",
+		"shirt2": "#ffd200",
+		"shirt3": "#ffd200",
+		"shorts": "#1e1e1e",
+		"socks": "#1e1e1e"
 	}
 ],
 "players": [
@@ -57,7 +56,7 @@
 		"role": "RIGHT_BACK",
 		"number": 2,
 		"skinColor": "MULATTO",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "SPECIAL_F",
 		"skills": {
 			"passing": 3,
@@ -103,7 +102,7 @@
 		"nationality": "ESP",
 		"role": "DEFENDER",
 		"number": 3,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "RED",
 		"hairStyle": "SMOOTH_M",
 		"skills": {
@@ -151,7 +150,7 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 8,
-		"skinColor": "ASIATIC",
+		"skinColor": "ARAB",
 		"hairColor": "BLOND",
 		"hairStyle": "PIGTAIL_B",
 		"skills": {
@@ -176,7 +175,7 @@
 		"nationality": "SRB",
 		"role": "MIDFIELDER",
 		"number": 20,
-		"skinColor": "ASIATIC",
+		"skinColor": "ARAB",
 		"hairColor": "RED",
 		"hairStyle": "SPECIAL_H",
 		"skills": {
@@ -244,8 +243,8 @@
 		"nationality": "MEX",
 		"role": "DEFENDER",
 		"number": 7,
-		"skinColor": "ALIEN",
-		"hairColor": "PUNK_FUCHSIA",
+		"skinColor": "RED",
+		"hairColor": "BLACK",
 		"hairStyle": "CURLY_A",
 		"skills": {
 			"passing": 3,
@@ -268,7 +267,7 @@
 		"role": "ATTACKER",
 		"number": 17,
 		"skinColor": "ARAB",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "SHORT_C",
 		"skills": {
 			"passing": 0,
@@ -329,9 +328,9 @@
 		"nationality": "BEL",
 		"role": "RIGHT_BACK",
 		"number": 21,
-		"skinColor": "ASIATIC",
-		"hairColor": "PUNK_FUCHSIA",
-		"hairStyle": "SHORT_B",
+		"skinColor": "ARAB",
+		"hairColor": "BLACK",
+		"hairStyle": "SHORT_C",
 		"skills": {
 			"passing": 4,
 			"shooting": 1,
@@ -356,8 +355,8 @@
 		"nationality": "BRA",
 		"role": "ATTACKER",
 		"number": 22,
-		"skinColor": "ASIATIC",
-		"hairColor": "WHITE",
+		"skinColor": "ARAB",
+		"hairColor": "GRAY",
 		"hairStyle": "THINNING_B",
 		"skills": {
 			"passing": 5,
@@ -437,7 +436,7 @@
 		"role": "ATTACKER",
 		"number": 11,
 		"skinColor": "PALE",
-		"hairColor": "WHITE",
+		"hairColor": "BLACK",
 		"hairStyle": "CURLY_F",
 		"skills": {
 			"passing": 4,
@@ -460,8 +459,8 @@
 		"nationality": "ESP",
 		"role": "LEFT_BACK",
 		"number": 33,
-		"skinColor": "BLACK",
-		"hairColor": "PLATINUM",
+		"skinColor": "PINK",
+		"hairColor": "RED",
 		"hairStyle": "CURLY_B",
 		"skills": {
 			"passing": 2,
@@ -483,7 +482,7 @@
 		"role": "ATTACKER",
 		"number": 19,
 		"skinColor": "PALE",
-		"hairColor": "PLATINUM",
+		"hairColor": "BLACK",
 		"hairStyle": "THINNING_C",
 		"skills": {
 			"passing": 2,
@@ -531,8 +530,8 @@
 		"role": "DEFENDER",
 		"number": 9,
 		"skinColor": "RED",
-		"hairColor": "PLATINUM",
-		"hairStyle": "SMOOTH_P",
+		"hairColor": "GRAY",
+		"hairStyle": "SPECIAL_A",
 		"skills": {
 			"passing": 3,
 			"shooting": 2,
@@ -552,9 +551,9 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 6,
-		"skinColor": "BLACK",
-		"hairColor": "PLATINUM",
-		"hairStyle": "SPECIAL_F",
+		"skinColor": "PINK",
+		"hairColor": "GRAY",
+		"hairStyle": "SPECIAL_H",
 		"skills": {
 			"passing": 5,
 			"shooting": 5,
@@ -579,8 +578,8 @@
 		"role": "DEFENDER",
 		"number": 18,
 		"skinColor": "ARAB",
-		"hairColor": "PUNK_FUCHSIA",
-		"hairStyle": "BALD_A",
+		"hairColor": "PLATINUM",
+		"hairStyle": "CURLY_A",
 		"skills": {
 			"passing": 2,
 			"shooting": 3,

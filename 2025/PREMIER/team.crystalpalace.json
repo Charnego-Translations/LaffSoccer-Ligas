@@ -1,5 +1,4 @@
 {
-  "_comment": "Crystal Palace 2025-26",
 "name": "CRYSTAL PALACE",
 "type": "CLUB",
 "country": "ESP",
@@ -14,28 +13,28 @@
 "tactics": "4-4-2",
 "kits": [
 	{
-		"style": "DOUBLE_STRIPE",
-		"shirt1": "#9832b8",
-		"shirt2": "#2ef402",
-		"shirt3": "#4031f9",
-		"shorts": "#02a5ef",
-		"socks": "#f85c10"
+		"style": "VERTICAL",
+		"shirt1": "#f61c1c",
+		"shirt2": "#3033c1",
+		"shirt3": "#dfe8eb",
+		"shorts": "#3033c1",
+		"socks": "#3033c1"
+	},
+	{
+		"style": "PLAIN",
+		"shirt1": "#cac47d",
+		"shirt2": "#1e1e1e",
+		"shirt3": "#1e1e1e",
+		"shorts": "#cac47d",
+		"socks": "#cac47d"
 	},
 	{
 		"style": "VERTICAL_STRIP",
-		"shirt1": "#cd776a",
-		"shirt2": "#7a1192",
-		"shirt3": "#121dfe",
-		"shorts": "#9a78f7",
-		"socks": "#e1dbd6"
-	},
-	{
-		"style": "LARGE_STRIPS",
-		"shirt1": "#679575",
-		"shirt2": "#7c3df1",
-		"shirt3": "#47d47f",
-		"shorts": "#6d0b81",
-		"socks": "#5b9096"
+		"shirt1": "#dfe8eb",
+		"shirt2": "#f61c1c",
+		"shirt3": "#3033c1",
+		"shorts": "#dfe8eb",
+		"socks": "#dfe8eb"
 	}
 ],
 "players": [
@@ -58,7 +57,7 @@
 		"number": 2,
 		"skinColor": "PALE",
 		"hairColor": "BLACK",
-		"hairStyle": "SPECIAL_G",
+		"hairStyle": "CURLY_A",
 		"skills": {
 			"passing": 5,
 			"shooting": 1,
@@ -120,7 +119,7 @@
 		"nationality": "ESP",
 		"role": "DEFENDER",
 		"number": 6,
-		"skinColor": "PALE",
+		"skinColor": "BLACK",
 		"hairColor": "BROWN",
 		"hairStyle": "BALD_A",
 		"skills": {
@@ -142,7 +141,7 @@
 		"nationality": "ESP",
 		"role": "DEFENDER",
 		"number": 26,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "BLOND",
 		"hairStyle": "CURLY_D",
 		"skills": {
@@ -168,7 +167,7 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 20,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "BLOND",
 		"hairStyle": "SMOOTH_A",
 		"skills": {
@@ -196,7 +195,7 @@
 		"role": "MIDFIELDER",
 		"number": 10,
 		"skinColor": "PINK",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "SPECIAL_B",
 		"skills": {
 			"passing": 2,
@@ -221,7 +220,7 @@
 		"role": "MIDFIELDER",
 		"number": 18,
 		"skinColor": "RED",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "CURLY_B",
 		"skills": {
 			"passing": 3,
@@ -294,7 +293,7 @@
 		"role": "GOALKEEPER",
 		"number": 44,
 		"skinColor": "RED",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "SHORT_C",
 		"value": 11
 	},
@@ -378,9 +377,9 @@
 		"nationality": "ESP",
 		"role": "RIGHT_BACK",
 		"number": 17,
-		"skinColor": "ASIATIC",
-		"hairColor": "PUNK_FUCHSIA",
-		"hairStyle": "SPECIAL_G",
+		"skinColor": "ARAB",
+		"hairColor": "BLACK",
+		"hairStyle": "SPECIAL_F",
 		"skills": {
 			"passing": 6,
 			"shooting": 2,
@@ -413,7 +412,7 @@
 		"role": "DEFENDER",
 		"number": 9,
 		"skinColor": "PINK",
-		"hairColor": "PLATINUM",
+		"hairColor": "GRAY",
 		"hairStyle": "SPECIAL_F",
 		"skills": {
 			"passing": 3,
@@ -526,7 +525,7 @@
 		"nationality": "ESP",
 		"role": "ATTACKER",
 		"number": 11,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "RED",
 		"hairStyle": "CURLY_A",
 		"skills": {
@@ -554,7 +553,7 @@
 		"role": "MIDFIELDER",
 		"number": 86,
 		"skinColor": "RED",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_K",
 		"skills": {
 			"passing": 3,

@@ -1,6 +1,5 @@
 {
-  "_comment": "Aston Villa 2025-26",
-"name": "ASTON VILLA",
+"name": "ASTON VILLA FC",
 "type": "CLUB",
 "country": "ESP",
 "league": "HISTÓRICOS",
@@ -14,28 +13,28 @@
 "tactics": "4-4-2",
 "kits": [
 	{
-		"style": "LARGE_STRIPS",
-		"shirt1": "#e46b61",
-		"shirt2": "#dde40e",
-		"shirt3": "#678c19",
-		"shorts": "#41f89a",
-		"socks": "#3cbe98"
+		"style": "SLEEVES",
+		"shirt1": "#993333",
+		"shirt2": "#47bfeb",
+		"shirt3": "#dfe8eb",
+		"shorts": "#dfe8eb",
+		"socks": "#47bfeb"
 	},
 	{
-		"style": "BIG_CHECK",
-		"shirt1": "#980d5e",
-		"shirt2": "#ea74de",
-		"shirt3": "#3ca7f2",
-		"shorts": "#ce60b2",
-		"socks": "#cc52e6"
+		"style": "ARMBAND",
+		"shirt1": "#1e1e1e",
+		"shirt2": "#7be2e3",
+		"shirt3": "#7be2e3",
+		"shorts": "#1e1e1e",
+		"socks": "#1e1e1e"
 	},
 	{
-		"style": "SPICE",
-		"shirt1": "#0335ad",
-		"shirt2": "#d6cd40",
-		"shirt3": "#1034b9",
-		"shorts": "#2647b9",
-		"socks": "#815bcf"
+		"style": "PLAIN",
+		"shirt1": "#dfe8eb",
+		"shirt2": "#5d2399",
+		"shirt3": "#5d2399",
+		"shorts": "#dfe8eb",
+		"socks": "#dfe8eb"
 	}
 ],
 "players": [
@@ -45,9 +44,9 @@
 		"nationality": "ARG",
 		"role": "GOALKEEPER",
 		"number": 23,
-		"skinColor": "MULATTO",
-		"hairColor": "BLOND",
-		"hairStyle": "SPECIAL_D",
+		"skinColor": "RED",
+		"hairColor": "BROWN",
+		"hairStyle": "SHORT_B",
 		"value": 13
 	},
 	{
@@ -56,8 +55,8 @@
 		"nationality": "POL",
 		"role": "RIGHT_BACK",
 		"number": 2,
-		"skinColor": "ALIEN",
-		"hairColor": "PUNK_FUCHSIA",
+		"skinColor": "RED",
+		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_C",
 		"skills": {
 			"passing": 3,
@@ -83,7 +82,7 @@
 		"nationality": "FRA",
 		"role": "LEFT_BACK",
 		"number": 12,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "PLATINUM",
 		"hairStyle": "BALD_A",
 		"skills": {
@@ -214,7 +213,7 @@
 		]
 	},
 	{
-		"name": "AMADOU ZEUND GEORGES BA MVOM ONANA",
+		"name": "AMADOU ZEUND GEORGES BA MVOM",
 		"shirtName": "ONANA",
 		"nationality": "BEL",
 		"role": "MIDFIELDER",
@@ -271,7 +270,7 @@
 		"role": "DEFENDER",
 		"number": 11,
 		"skinColor": "MULATTO",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "BALD_A",
 		"skills": {
 			"passing": 5,
@@ -399,18 +398,18 @@
 		"nationality": "ESP",
 		"role": "GOALKEEPER",
 		"number": 64,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_B",
 		"value": 36
 	},
 	{
-		"name": "EVANN LUDOVIC VIDJANNAGNI GUESSAND",
+		"name": "EVANN LUDOVIC VIDJANNAGNI",
 		"shirtName": "GUESSAND",
 		"nationality": "CIV",
 		"role": "ATTACKER",
 		"number": 29,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "BLOND",
 		"hairStyle": "THINNING_B",
 		"skills": {
@@ -450,7 +449,7 @@
 		"nationality": "ESP",
 		"role": "ATTACKER",
 		"number": 19,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "RED",
 		"hairStyle": "SMOOTH_L",
 		"skills": {
@@ -475,7 +474,7 @@
 		"nationality": "ESP",
 		"role": "DEFENDER",
 		"number": 5,
-		"skinColor": "ALIEN",
+		"skinColor": "MULATTO",
 		"hairColor": "BLACK",
 		"hairStyle": "THINNING_A",
 		"skills": {
@@ -502,7 +501,7 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 6,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "BROWN",
 		"hairStyle": "PIGTAIL_A",
 		"skills": {
@@ -554,7 +553,7 @@
 		"role": "RIGHT_BACK",
 		"number": 16,
 		"skinColor": "ARAB",
-		"hairColor": "WHITE",
+		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_E",
 		"skills": {
 			"passing": 4,
@@ -576,8 +575,8 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 53,
-		"skinColor": "ALIEN",
-		"hairColor": "WHITE",
+		"skinColor": "RED",
+		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_J",
 		"skills": {
 			"passing": 3,
@@ -602,7 +601,7 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 20,
-		"skinColor": "PALE",
+		"skinColor": "BLACK",
 		"hairColor": "GRAY",
 		"hairStyle": "SPECIAL_A",
 		"skills": {

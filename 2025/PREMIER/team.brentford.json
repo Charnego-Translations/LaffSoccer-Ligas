@@ -1,6 +1,5 @@
 {
-  "_comment": "Brentford 2025-26",
-"name": "BRENTFORD",
+"name": "BRENTFORD FC",
 "type": "CLUB",
 "country": "ESP",
 "league": "HISTÓRICOS",
@@ -14,28 +13,28 @@
 "tactics": "4-4-2",
 "kits": [
 	{
-		"style": "LINE",
-		"shirt1": "#d9cafa",
-		"shirt2": "#e26636",
-		"shirt3": "#0c2fbb",
-		"shorts": "#25ec06",
-		"socks": "#76bc40"
+		"style": "VERTICAL",
+		"shirt1": "#dfe8eb",
+		"shirt2": "#f61c1c",
+		"shirt3": "#f61c1c",
+		"shorts": "#1e1e1e",
+		"socks": "#1e1e1e"
 	},
 	{
-		"style": "DIAGONAL_HALF",
-		"shirt1": "#3e8cba",
-		"shirt2": "#54b110",
-		"shirt3": "#d5d849",
-		"shorts": "#7a813d",
-		"socks": "#81a12c"
+		"style": "PLAIN",
+		"shirt1": "#993333",
+		"shirt2": "#cac47d",
+		"shirt3": "#cac47d",
+		"shorts": "#993333",
+		"socks": "#993333"
 	},
 	{
-		"style": "CROSS",
-		"shirt1": "#11da3f",
-		"shirt2": "#f2e660",
-		"shirt3": "#72218c",
-		"shorts": "#18b97e",
-		"socks": "#99aadb"
+		"style": "TWO_STRIPES",
+		"shirt1": "#47bfeb",
+		"shirt2": "#1e1e1e",
+		"shirt3": "#f5732c",
+		"shorts": "#47bfeb",
+		"socks": "#47bfeb"
 	}
 ],
 "players": [
@@ -81,7 +80,7 @@
 		"nationality": "NOR",
 		"role": "LEFT_BACK",
 		"number": 20,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "BROWN",
 		"hairStyle": "SMOOTH_L",
 		"skills": {
@@ -152,7 +151,7 @@
 		"role": "MIDFIELDER",
 		"number": 18,
 		"skinColor": "PINK",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "SPECIAL_C",
 		"skills": {
 			"passing": 5,
@@ -239,7 +238,7 @@
 		"nationality": "GER",
 		"role": "ATTACKER",
 		"number": 7,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "RED",
 		"hairStyle": "SPECIAL_D",
 		"skills": {
@@ -321,7 +320,7 @@
 		"role": "MIDFIELDER",
 		"number": 8,
 		"skinColor": "PINK",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "THINNING_A",
 		"skills": {
 			"passing": 3,
@@ -430,8 +429,8 @@
 		"nationality": "ESP",
 		"role": "DEFENDER",
 		"number": 5,
-		"skinColor": "BLACK",
-		"hairColor": "WHITE",
+		"skinColor": "PINK",
+		"hairColor": "GRAY",
 		"hairStyle": "CURLY_A",
 		"skills": {
 			"passing": 4,
@@ -476,7 +475,7 @@
 		]
 	},
 	{
-		"name": "FÁBIO LEANDRO FREITAS GOUVEIA CARVALHO",
+		"name": "FÁBIO LEANDRO FREITAS GOUVEIA",
 		"shirtName": "FÁBIO CARVALHO",
 		"nationality": "POR",
 		"role": "MIDFIELDER",
@@ -596,7 +595,7 @@
 		"role": "MIDFIELDER",
 		"number": 26,
 		"skinColor": "RED",
-		"hairColor": "WHITE",
+		"hairColor": "GRAY",
 		"hairStyle": "SMOOTH_M",
 		"skills": {
 			"passing": 6,

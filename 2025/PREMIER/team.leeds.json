@@ -1,6 +1,5 @@
 {
-  "_comment": "Leeds 2025-26",
-"name": "LEEDS",
+"name": "LEEDS UNITED FC",
 "type": "CLUB",
 "country": "ESP",
 "league": "HISTÓRICOS",
@@ -14,28 +13,28 @@
 "tactics": "4-4-2",
 "kits": [
 	{
-		"style": "CHECK",
-		"shirt1": "#4499e6",
-		"shirt2": "#ef08ff",
-		"shirt3": "#0d4c4d",
-		"shorts": "#fd2a6d",
-		"socks": "#0beef2"
+		"style": "ARMBAND",
+		"shirt1": "#dfe8eb",
+		"shirt2": "#3033c1",
+		"shirt3": "#3033c1",
+		"shorts": "#dfe8eb",
+		"socks": "#dfe8eb"
 	},
 	{
-		"style": "HORIZONTAL",
-		"shirt1": "#7811e1",
-		"shirt2": "#1ec4a8",
-		"shirt3": "#3f9e30",
-		"shorts": "#d086fc",
-		"socks": "#e7722c"
+		"style": "SPICE",
+		"shirt1": "#3033c1",
+		"shirt2": "#ffd200",
+		"shirt3": "#ffd200",
+		"shorts": "#3033c1",
+		"socks": "#3033c1"
 	},
 	{
-		"style": "DIAGONAL",
-		"shirt1": "#3409ef",
-		"shirt2": "#c8e2ad",
-		"shirt3": "#e77cf2",
-		"shorts": "#c3c54d",
-		"socks": "#9e762a"
+		"style": "SIDE_LINES",
+		"shirt1": "#1e1e1e",
+		"shirt2": "#dfe8eb",
+		"shirt3": "#dfe8eb",
+		"shorts": "#1e1e1e",
+		"socks": "#1e1e1e"
 	}
 ],
 "players": [
@@ -45,8 +44,8 @@
 		"nationality": "BRA",
 		"role": "GOALKEEPER",
 		"number": 1,
-		"skinColor": "ASIATIC",
-		"hairColor": "PLATINUM",
+		"skinColor": "PALE",
+		"hairColor": "GRAY",
 		"hairStyle": "CURLY_A",
 		"value": 15
 	},
@@ -134,7 +133,7 @@
 		"role": "DEFENDER",
 		"number": 5,
 		"skinColor": "PALE",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_A",
 		"skills": {
 			"passing": 5,
@@ -159,7 +158,7 @@
 		"nationality": "ESP",
 		"role": "DEFENDER",
 		"number": 4,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "GRAY",
 		"hairStyle": "SMOOTH_D",
 		"skills": {
@@ -306,7 +305,7 @@
 		"nationality": "ESP",
 		"role": "GOALKEEPER",
 		"number": 26,
-		"skinColor": "ASIATIC",
+		"skinColor": "ARAB",
 		"hairColor": "BLACK",
 		"hairStyle": "SPECIAL_A",
 		"value": 38
@@ -456,7 +455,7 @@
 		"nationality": "ITA",
 		"role": "ATTACKER",
 		"number": 29,
-		"skinColor": "ALIEN",
+		"skinColor": "PALE",
 		"hairColor": "BLOND",
 		"hairStyle": "SMOOTH_F",
 		"skills": {
@@ -554,8 +553,8 @@
 		"nationality": "BEL",
 		"role": "DEFENDER",
 		"number": 23,
-		"skinColor": "ASIATIC",
-		"hairColor": "PUNK_FUCHSIA",
+		"skinColor": "PALE",
+		"hairColor": "BLACK",
 		"hairStyle": "SHORT_B",
 		"skills": {
 			"passing": 3,
@@ -578,7 +577,7 @@
 		"nationality": "ESP",
 		"role": "RIGHT_BACK",
 		"number": 25,
-		"skinColor": "ASIATIC",
+		"skinColor": "PALE",
 		"hairColor": "RED",
 		"hairStyle": "SPECIAL_B",
 		"skills": {
@@ -601,7 +600,7 @@
 		"role": "ATTACKER",
 		"number": 17,
 		"skinColor": "PINK",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "CURLY_E",
 		"skills": {
 			"passing": 3,
@@ -625,7 +624,7 @@
 		"role": "MIDFIELDER",
 		"number": 42,
 		"skinColor": "PINK",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_E",
 		"skills": {
 			"passing": 4,
