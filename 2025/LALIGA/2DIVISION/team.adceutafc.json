@@ -1,5 +1,4 @@
 {
-  "_comment": "AD Ceuta FC 2025-26",
 "name": "AD CEUTA FC",
 "type": "CLUB",
 "country": "ESP",
@@ -15,27 +14,27 @@
 "kits": [
 	{
 		"style": "PLAIN",
-		"shirt1": "#f19389",
-		"shirt2": "#b51726",
-		"shirt3": "#14751b",
-		"shorts": "#093ee6",
-		"socks": "#55a48c"
+		"shirt1": "#dfe8eb",
+		"shirt2": "#1e1e1e",
+		"shirt3": "#1e1e1e",
+		"shorts": "#dfe8eb",
+		"socks": "#dfe8eb"
 	},
 	{
-		"style": "CROSS",
-		"shirt1": "#059291",
-		"shirt2": "#453737",
-		"shirt3": "#359ce6",
-		"shorts": "#4ffb43",
-		"socks": "#6ed05a"
+		"style": "PLAIN",
+		"shirt1": "#3033c1",
+		"shirt2": "#1e1e1e",
+		"shirt3": "#1e1e1e",
+		"shorts": "#1e1e1e",
+		"socks": "#3033c1"
 	},
 	{
-		"style": "SLEEVES",
-		"shirt1": "#12e384",
-		"shirt2": "#efce3b",
-		"shirt3": "#01429b",
-		"shorts": "#6e95ff",
-		"socks": "#a42284"
+		"style": "PLAIN",
+		"shirt1": "#949494",
+		"shirt2": "#ffd200",
+		"shirt3": "#ffd200",
+		"shorts": "#949494",
+		"socks": "#afb2b9"
 	}
 ],
 "players": [
@@ -132,7 +131,7 @@
 		"nationality": "ESP",
 		"role": "DEFENDER",
 		"number": 15,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "WHITE",
 		"hairStyle": "PIGTAIL_A",
 		"skills": {
@@ -256,7 +255,7 @@
 		"role": "ATTACKER",
 		"number": 9,
 		"skinColor": "MULATTO",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "RED",
 		"hairStyle": "CURLY_C",
 		"skills": {
 			"passing": 3,
@@ -276,7 +275,7 @@
 		"role": "ATTACKER",
 		"number": 23,
 		"skinColor": "MULATTO",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "RED",
 		"hairStyle": "SHAVED",
 		"skills": {
 			"passing": 4,
@@ -310,7 +309,7 @@
 		"nationality": "FRA",
 		"role": "MIDFIELDER",
 		"number": 14,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "WHITE",
 		"hairStyle": "CURLY_B",
 		"skills": {
@@ -350,7 +349,7 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 10,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "BROWN",
 		"hairStyle": "CURLY_A",
 		"skills": {
@@ -402,13 +401,13 @@
 		"nationality": "ESP",
 		"role": "GOALKEEPER",
 		"number": 28,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_L",
 		"value": 13
 	},
 	{
-		"name": "GONZALO FRANCISCO ALMENARA HERNÁNDEZ",
+		"name": "GONZALO FRANCISCO ALMENARA",
 		"shirtName": "ALMENARA",
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
@@ -434,7 +433,7 @@
 		"role": "ATTACKER",
 		"number": 25,
 		"skinColor": "RED",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "RED",
 		"hairStyle": "SMOOTH_H",
 		"skills": {
 			"passing": 3,
@@ -453,7 +452,7 @@
 		"nationality": "CIV",
 		"role": "MIDFIELDER",
 		"number": 26,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "BROWN",
 		"hairStyle": "CURLY_B",
 		"skills": {
@@ -477,8 +476,8 @@
 		"nationality": "ESP",
 		"role": "DEFENDER",
 		"number": 12,
-		"skinColor": "BLACK",
-		"hairColor": "PUNK_FUCHSIA",
+		"skinColor": "PINK",
+		"hairColor": "RED",
 		"hairStyle": "SMOOTH_E",
 		"skills": {
 			"passing": 2,
@@ -527,7 +526,7 @@
 		"role": "DEFENDER",
 		"number": 4,
 		"skinColor": "MULATTO",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "RED",
 		"hairStyle": "SMOOTH_O",
 		"skills": {
 			"passing": 4,
@@ -567,7 +566,7 @@
 		"role": "ATTACKER",
 		"number": 21,
 		"skinColor": "MULATTO",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BROWN",
 		"hairStyle": "CURLY_D",
 		"skills": {
 			"passing": 1,
@@ -589,7 +588,7 @@
 		"nationality": "ESP",
 		"role": "ATTACKER",
 		"number": 20,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "BROWN",
 		"hairStyle": "SMOOTH_L",
 		"skills": {

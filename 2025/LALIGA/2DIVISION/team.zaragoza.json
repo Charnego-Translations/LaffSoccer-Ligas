@@ -1,6 +1,5 @@
 {
-  "_comment": "Zaragoza 2025-26",
-"name": "ZARAGOZA",
+"name": "REAL ZARAGOZA",
 "type": "CLUB",
 "country": "ESP",
 "league": "HISTÓRICOS",
@@ -14,28 +13,28 @@
 "tactics": "4-4-2",
 "kits": [
 	{
-		"style": "STRIP",
-		"shirt1": "#0f6b4f",
-		"shirt2": "#d5064e",
-		"shirt3": "#0ae89a",
-		"shorts": "#fa887f",
-		"socks": "#40078d"
+		"style": "SIDE_LINES",
+		"shirt1": "#dfe8eb",
+		"shirt2": "#47bfeb",
+		"shirt3": "#47bfeb",
+		"shorts": "#47bfeb",
+		"socks": "#dfe8eb"
 	},
 	{
-		"style": "SPICE",
-		"shirt1": "#ecbbde",
-		"shirt2": "#9d9505",
-		"shirt3": "#7062cc",
-		"shorts": "#25b229",
-		"socks": "#08e888"
+		"style": "SIDE_LINES",
+		"shirt1": "#1e1e1e",
+		"shirt2": "#e8ef2f",
+		"shirt3": "#e8ef2f",
+		"shorts": "#1e1e1e",
+		"socks": "#1e1e1e"
 	},
 	{
-		"style": "DOUBLE_STRIPE",
-		"shirt1": "#4c24e4",
-		"shirt2": "#3ea4bc",
-		"shirt3": "#636a91",
-		"shorts": "#6f5cb4",
-		"socks": "#399956"
+		"style": "PLAIN",
+		"shirt1": "#dfe8eb",
+		"shirt2": "#47bfeb",
+		"shirt3": "#47bfeb",
+		"shorts": "#47bfeb",
+		"socks": "#dfe8eb"
 	}
 ],
 "players": [
@@ -45,8 +44,8 @@
 		"nationality": "ARG",
 		"role": "GOALKEEPER",
 		"number": 1,
-		"skinColor": "BLACK",
-		"hairColor": "WHITE",
+		"skinColor": "PINK",
+		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_E",
 		"value": 20
 	},
@@ -57,7 +56,7 @@
 		"role": "DEFENDER",
 		"number": 4,
 		"skinColor": "ASIATIC",
-		"hairColor": "PLATINUM",
+		"hairColor": "GRAY",
 		"hairStyle": "SPECIAL_D",
 		"skills": {
 			"passing": 3,
@@ -78,8 +77,8 @@
 		"nationality": "ESP",
 		"role": "LEFT_BACK",
 		"number": 3,
-		"skinColor": "ALIEN",
-		"hairColor": "PLATINUM",
+		"skinColor": "RED",
+		"hairColor": "GRAY",
 		"hairStyle": "CURLY_A",
 		"skills": {
 			"passing": 4,
@@ -99,7 +98,7 @@
 		"role": "DEFENDER",
 		"number": 15,
 		"skinColor": "MULATTO",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "BALD_A",
 		"skills": {
 			"passing": 5,
@@ -148,7 +147,7 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 10,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "BROWN",
 		"hairStyle": "BALD_B",
 		"skills": {
@@ -175,7 +174,7 @@
 		"role": "MIDFIELDER",
 		"number": 14,
 		"skinColor": "PALE",
-		"hairColor": "WHITE",
+		"hairColor": "RED",
 		"hairStyle": "SPECIAL_F",
 		"skills": {
 			"passing": 3,
@@ -218,13 +217,13 @@
 		]
 	},
 	{
-		"name": "FRANCISCO SEBASTIÁN MOYANO JIMÉNEZ",
+		"name": "FRANCISCO SEBASTIÁN MOYANO",
 		"shirtName": "SEBAS MOYANO",
 		"nationality": "ESP",
 		"role": "ATTACKER",
 		"number": 17,
 		"skinColor": "PINK",
-		"hairColor": "WHITE",
+		"hairColor": "PUNK_BLOND",
 		"hairStyle": "SMOOTH_G",
 		"skills": {
 			"passing": 1,
@@ -294,7 +293,7 @@
 		"nationality": "ARG",
 		"role": "GOALKEEPER",
 		"number": 13,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "RED",
 		"hairStyle": "THINNING_C",
 		"value": 19
@@ -358,7 +357,7 @@
 		"role": "RIGHT_BACK",
 		"number": 2,
 		"skinColor": "PINK",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "CURLY_D",
 		"skills": {
 			"passing": 4,
@@ -530,7 +529,7 @@
 		"nationality": "ESP",
 		"role": "ATTACKER",
 		"number": 18,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "BLOND",
 		"hairStyle": "CURLY_D",
 		"skills": {
@@ -578,7 +577,7 @@
 		"nationality": "BIH",
 		"role": "ATTACKER",
 		"number": 11,
-		"skinColor": "ASIATIC",
+		"skinColor": "PALE",
 		"hairColor": "BLACK",
 		"hairStyle": "SPECIAL_G",
 		"skills": {
@@ -602,9 +601,9 @@
 		"nationality": "TUR",
 		"role": "DEFENDER",
 		"number": 12,
-		"skinColor": "ASIATIC",
-		"hairColor": "PLATINUM",
-		"hairStyle": "SPECIAL_H",
+		"skinColor": "PALE",
+		"hairColor": "GRAY",
+		"hairStyle": "THINNING_C",
 		"skills": {
 			"passing": 3,
 			"shooting": 5,

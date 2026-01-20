@@ -1,6 +1,5 @@
 {
-  "_comment": "Huesca 2025-26",
-"name": "HUESCA",
+"name": "SD HUESCA",
 "type": "CLUB",
 "country": "ESP",
 "league": "HISTÓRICOS",
@@ -14,28 +13,28 @@
 "tactics": "4-4-2",
 "kits": [
 	{
+		"style": "LARGE_STRIPS",
+		"shirt1": "#a31212",
+		"shirt2": "#3033c1",
+		"shirt3": "#3033c1",
+		"shorts": "#3033c1",
+		"socks": "#3033c1"
+	},
+	{
+		"style": "SPICE",
+		"shirt1": "#dfe8eb",
+		"shirt2": "#417039",
+		"shirt3": "#417039",
+		"shorts": "#dfe8eb",
+		"socks": "#dfe8eb"
+	},
+	{
 		"style": "CROSS",
-		"shirt1": "#2a1b7a",
-		"shirt2": "#100782",
-		"shirt3": "#618681",
-		"shorts": "#257fb0",
-		"socks": "#f692f9"
-	},
-	{
-		"style": "SLEEVES",
-		"shirt1": "#39a7bf",
-		"shirt2": "#559667",
-		"shirt3": "#db646a",
-		"shorts": "#864fbc",
-		"socks": "#76fff9"
-	},
-	{
-		"style": "SIDE_LINES",
-		"shirt1": "#e4c0af",
-		"shirt2": "#7d2c24",
-		"shirt3": "#ec86f1",
-		"shorts": "#10d856",
-		"socks": "#b5f909"
+		"shirt1": "#1e1e1e",
+		"shirt2": "#a31212",
+		"shirt3": "#1e1e1e",
+		"shorts": "#1e1e1e",
+		"socks": "#1e1e1e"
 	}
 ],
 "players": [
@@ -56,7 +55,7 @@
 		"nationality": "ESP",
 		"role": "RIGHT_BACK",
 		"number": 2,
-		"skinColor": "ASIATIC",
+		"skinColor": "PALE",
 		"hairColor": "BLACK",
 		"hairStyle": "THINNING_B",
 		"skills": {
@@ -79,7 +78,7 @@
 		"role": "LEFT_BACK",
 		"number": 17,
 		"skinColor": "PINK",
-		"hairColor": "WHITE",
+		"hairColor": "RED",
 		"hairStyle": "SMOOTH_B",
 		"skills": {
 			"passing": 1,
@@ -179,7 +178,7 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 16,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "BLACK",
 		"hairStyle": "CURLY_F",
 		"skills": {
@@ -205,8 +204,8 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 23,
-		"skinColor": "ASIATIC",
-		"hairColor": "PUNK_FUCHSIA",
+		"skinColor": "ARAB",
+		"hairColor": "BROWN",
 		"hairStyle": "SPECIAL_H",
 		"skills": {
 			"passing": 5,
@@ -231,7 +230,7 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 20,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "BLOND",
 		"hairStyle": "SMOOTH_L",
 		"skills": {
@@ -279,7 +278,7 @@
 		"nationality": "ESP",
 		"role": "DEFENDER",
 		"number": 18,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_H",
 		"skills": {
@@ -336,7 +335,7 @@
 		"nationality": "ESP",
 		"role": "RIGHT_BACK",
 		"number": 22,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "PLATINUM",
 		"hairStyle": "SHORT_A",
 		"skills": {
@@ -363,8 +362,8 @@
 		"nationality": "ESP",
 		"role": "DEFENDER",
 		"number": 4,
-		"skinColor": "BLACK",
-		"hairColor": "PUNK_FUCHSIA",
+		"skinColor": "PINK",
+		"hairColor": "GRAY",
 		"hairStyle": "SMOOTH_K",
 		"skills": {
 			"passing": 4,
@@ -422,7 +421,7 @@
 		"role": "ATTACKER",
 		"number": 11,
 		"skinColor": "ASIATIC",
-		"hairColor": "WHITE",
+		"hairColor": "GRAY",
 		"hairStyle": "CURLY_F",
 		"skills": {
 			"passing": 3,
@@ -469,8 +468,8 @@
 		"nationality": "ESP",
 		"role": "ATTACKER",
 		"number": 21,
-		"skinColor": "BLACK",
-		"hairColor": "PUNK_FUCHSIA",
+		"skinColor": "PINK",
+		"hairColor": "RED",
 		"hairStyle": "PIGTAIL_B",
 		"skills": {
 			"passing": 1,
@@ -491,7 +490,7 @@
 		"nationality": "FRA",
 		"role": "ATTACKER",
 		"number": 19,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "BLOND",
 		"hairStyle": "THINNING_C",
 		"skills": {
@@ -518,7 +517,7 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 7,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_P",
 		"skills": {
@@ -546,7 +545,7 @@
 		"role": "DEFENDER",
 		"number": 15,
 		"skinColor": "ASIATIC",
-		"hairColor": "WHITE",
+		"hairColor": "GRAY",
 		"hairStyle": "SPECIAL_C",
 		"skills": {
 			"passing": 3,
@@ -565,8 +564,8 @@
 		"nationality": "CHI",
 		"role": "MIDFIELDER",
 		"number": 37,
-		"skinColor": "BLACK",
-		"hairColor": "PLATINUM",
+		"skinColor": "PINK",
+		"hairColor": "BROWN",
 		"hairStyle": "CURLY_F",
 		"skills": {
 			"passing": 3,

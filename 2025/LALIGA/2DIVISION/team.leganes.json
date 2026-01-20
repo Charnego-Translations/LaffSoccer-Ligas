@@ -1,6 +1,5 @@
 {
-  "_comment": "Leganés 2025-26",
-"name": "LEGANÉS",
+"name": "CD LEGANÉS",
 "type": "CLUB",
 "country": "ESP",
 "league": "HISTÓRICOS",
@@ -14,28 +13,28 @@
 "tactics": "4-4-2",
 "kits": [
 	{
-		"style": "DIAGONAL_HALF",
-		"shirt1": "#8861a7",
-		"shirt2": "#82511d",
-		"shirt3": "#1af3a8",
-		"shorts": "#6277c3",
-		"socks": "#790c82"
+		"style": "LARGE_STRIPS",
+		"shirt1": "#dfe8eb",
+		"shirt2": "#3033c1",
+		"shirt3": "#3033c1",
+		"shorts": "#dfe8eb",
+		"socks": "#dfe8eb"
 	},
 	{
-		"style": "STRIP",
-		"shirt1": "#f51acd",
-		"shirt2": "#afee06",
-		"shirt3": "#9fe2d6",
-		"shorts": "#5431d8",
-		"socks": "#567d32"
+		"style": "DOUBLE_STRIPE",
+		"shirt1": "#30c52c",
+		"shirt2": "#417039",
+		"shirt3": "#30c52c",
+		"shorts": "#30c52c",
+		"socks": "#30c52c"
 	},
 	{
-		"style": "SIDE_LINES",
-		"shirt1": "#fc9f58",
-		"shirt2": "#44aa99",
-		"shirt3": "#a97ddf",
-		"shorts": "#ed96c8",
-		"socks": "#6df0c2"
+		"style": "PLAIN",
+		"shirt1": "#1e1e1e",
+		"shirt2": "#ffd200",
+		"shirt3": "#ffd200",
+		"shorts": "#1e1e1e",
+		"socks": "#1e1e1e"
 	}
 ],
 "players": [
@@ -45,9 +44,9 @@
 		"nationality": "ESP",
 		"role": "GOALKEEPER",
 		"number": 1,
-		"skinColor": "BLACK",
-		"hairColor": "PUNK_FUCHSIA",
-		"hairStyle": "PIGTAIL_B",
+		"skinColor": "PALE",
+		"hairColor": "BLACK",
+		"hairStyle": "SHORT_C",
 		"value": 21
 	},
 	{
@@ -130,7 +129,7 @@
 		"role": "DEFENDER",
 		"number": 5,
 		"skinColor": "PINK",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "CURLY_C",
 		"skills": {
 			"passing": 2,
@@ -199,7 +198,7 @@
 		"nationality": "GIN",
 		"role": "MIDFIELDER",
 		"number": 8,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "RED",
 		"hairStyle": "SHAVED",
 		"skills": {
@@ -276,8 +275,8 @@
 		"nationality": "ESP",
 		"role": "DEFENDER",
 		"number": 19,
-		"skinColor": "BLACK",
-		"hairColor": "PUNK_FUCHSIA",
+		"skinColor": "PINK",
+		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_P",
 		"skills": {
 			"passing": 3,
@@ -299,7 +298,7 @@
 		"role": "GOALKEEPER",
 		"number": 13,
 		"skinColor": "PALE",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "SHAVED",
 		"value": 16
 	},
@@ -334,7 +333,7 @@
 		"nationality": "ESP",
 		"role": "DEFENDER",
 		"number": 3,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "BLOND",
 		"hairStyle": "SHAVED",
 		"skills": {
@@ -362,7 +361,7 @@
 		"role": "DEFENDER",
 		"number": 9,
 		"skinColor": "ARAB",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_J",
 		"skills": {
 			"passing": 2,
@@ -481,7 +480,7 @@
 		"bestSkills": []
 	},
 	{
-		"name": "SEBASTIÁN MARÍA FIGUEREDO VILAR DEL VALLE",
+		"name": "SEBASTIÁN MARÍA FIGUEREDO VILAR",
 		"shirtName": "FIGUEREDO",
 		"nationality": "URU",
 		"role": "RIGHT_BACK",
@@ -555,7 +554,7 @@
 		"role": "RIGHT_BACK",
 		"number": 36,
 		"skinColor": "ARAB",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_O",
 		"skills": {
 			"passing": 3,

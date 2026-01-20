@@ -1,5 +1,4 @@
 {
-  "_comment": "Sporting de Gijón 2025-26",
 "name": "SPORTING DE GIJÓN",
 "type": "CLUB",
 "country": "ESP",
@@ -14,28 +13,28 @@
 "tactics": "4-4-2",
 "kits": [
 	{
-		"style": "CHECK",
-		"shirt1": "#ba38c6",
-		"shirt2": "#5720eb",
-		"shirt3": "#5be1c5",
-		"shorts": "#db2774",
-		"socks": "#cdb8b6"
+		"style": "VERTICAL",
+		"shirt1": "#dfe8eb",
+		"shirt2": "#f61c1c",
+		"shirt3": "#f61c1c",
+		"shorts": "#dfe8eb",
+		"socks": "#dfe8eb"
 	},
 	{
-		"style": "CHECK",
-		"shirt1": "#0ca0f5",
-		"shirt2": "#826773",
-		"shirt3": "#ba6b2c",
-		"shorts": "#08a0af",
-		"socks": "#69d528"
+		"style": "LINE",
+		"shirt1": "#1e1e1e",
+		"shirt2": "#a31212",
+		"shirt3": "#dfe8eb",
+		"shorts": "#1e1e1e",
+		"socks": "#1e1e1e"
 	},
 	{
 		"style": "SPICE",
-		"shirt1": "#4e2f9b",
-		"shirt2": "#825be4",
-		"shirt3": "#19b6fe",
-		"shorts": "#62973f",
-		"socks": "#f74ff3"
+		"shirt1": "#dfe8eb",
+		"shirt2": "#f61c1c",
+		"shirt3": "#f61c1c",
+		"shorts": "#f61c1c",
+		"socks": "#dfe8eb"
 	}
 ],
 "players": [
@@ -45,7 +44,7 @@
 		"nationality": "ESP",
 		"role": "GOALKEEPER",
 		"number": 1,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "GRAY",
 		"hairStyle": "SHORT_C",
 		"value": 34
@@ -57,7 +56,7 @@
 		"role": "RIGHT_BACK",
 		"number": 2,
 		"skinColor": "MULATTO",
-		"hairColor": "WHITE",
+		"hairColor": "BLACK",
 		"hairStyle": "SPECIAL_F",
 		"skills": {
 			"passing": 4,
@@ -81,7 +80,7 @@
 		"nationality": "ESP",
 		"role": "LEFT_BACK",
 		"number": 5,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "RED",
 		"hairStyle": "SHORT_B",
 		"skills": {
@@ -171,7 +170,7 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 14,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_M",
 		"skills": {
@@ -192,7 +191,7 @@
 		"role": "MIDFIELDER",
 		"number": 6,
 		"skinColor": "RED",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "CURLY_A",
 		"skills": {
 			"passing": 1,
@@ -215,8 +214,8 @@
 		"nationality": "COL",
 		"role": "ATTACKER",
 		"number": 19,
-		"skinColor": "BLACK",
-		"hairColor": "PUNK_FUCHSIA",
+		"skinColor": "PINK",
+		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_M",
 		"skills": {
 			"passing": 1,
@@ -238,7 +237,7 @@
 		"role": "ATTACKER",
 		"number": 17,
 		"skinColor": "PALE",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_C",
 		"skills": {
 			"passing": 3,
@@ -288,7 +287,7 @@
 		"nationality": "ESP",
 		"role": "GOALKEEPER",
 		"number": 13,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "BLACK",
 		"hairStyle": "SPECIAL_H",
 		"value": 21
@@ -326,7 +325,7 @@
 		"nationality": "ESP",
 		"role": "DEFENDER",
 		"number": 23,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "BLACK",
 		"hairStyle": "SPECIAL_H",
 		"skills": {
@@ -354,8 +353,8 @@
 		"role": "MIDFIELDER",
 		"number": 18,
 		"skinColor": "PALE",
-		"hairColor": "WHITE",
-		"hairStyle": "SPECIAL_G",
+		"hairColor": "BLACK",
+		"hairStyle": "THINNING_A",
 		"skills": {
 			"passing": 4,
 			"shooting": 4,
@@ -373,7 +372,7 @@
 		"nationality": "ESP",
 		"role": "LEFT_BACK",
 		"number": 3,
-		"skinColor": "BLACK",
+		"skinColor": "PALE",
 		"hairColor": "BLOND",
 		"hairStyle": "CURLY_F",
 		"skills": {
@@ -397,7 +396,7 @@
 		"role": "GOALKEEPER",
 		"number": 30,
 		"skinColor": "PALE",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "THINNING_C",
 		"value": 21
 	},
@@ -434,7 +433,7 @@
 		"nationality": "ESP",
 		"role": "RIGHT_BACK",
 		"number": 20,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "RED",
 		"hairStyle": "SMOOTH_A",
 		"skills": {
@@ -537,7 +536,7 @@
 		"nationality": "COL",
 		"role": "ATTACKER",
 		"number": 16,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "RED",
 		"hairStyle": "BALD_B",
 		"skills": {
@@ -564,7 +563,7 @@
 		"role": "MIDFIELDER",
 		"number": 21,
 		"skinColor": "PINK",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "THINNING_B",
 		"skills": {
 			"passing": 2,
@@ -609,8 +608,8 @@
 		"nationality": "ESP",
 		"role": "DEFENDER",
 		"number": 28,
-		"skinColor": "ALIEN",
-		"hairColor": "PUNK_FUCHSIA",
+		"skinColor": "RED",
+		"hairColor": "BLACK",
 		"hairStyle": "SPECIAL_H",
 		"skills": {
 			"passing": 5,

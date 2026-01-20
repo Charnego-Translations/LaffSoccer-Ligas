@@ -1,5 +1,4 @@
 {
-  "_comment": "Burgos CF 2025-26",
 "name": "BURGOS CF",
 "type": "CLUB",
 "country": "ESP",
@@ -14,28 +13,28 @@
 "tactics": "4-4-2",
 "kits": [
 	{
-		"style": "CROSS",
-		"shirt1": "#cb7490",
-		"shirt2": "#de5234",
-		"shirt3": "#345b25",
-		"shorts": "#1e4594",
-		"socks": "#f63dfb"
+		"style": "SPICE",
+		"shirt1": "#dfe8eb",
+		"shirt2": "#1e1e1e",
+		"shirt3": "#1e1e1e",
+		"shorts": "#1e1e1e",
+		"socks": "#dfe8eb"
 	},
 	{
-		"style": "VERTICAL",
-		"shirt1": "#245f8f",
-		"shirt2": "#60ac30",
-		"shirt3": "#4803c6",
-		"shorts": "#9c6a62",
-		"socks": "#58d3f9"
+		"style": "SPICE",
+		"shirt1": "#7be2e3",
+		"shirt2": "#1e1e1e",
+		"shirt3": "#1e1e1e",
+		"shorts": "#7be2e3",
+		"socks": "#7be2e3"
 	},
 	{
-		"style": "ARMBAND",
-		"shirt1": "#964336",
-		"shirt2": "#b83922",
-		"shirt3": "#0dcefe",
-		"shorts": "#bccbfc",
-		"socks": "#8a79d5"
+		"style": "SPICE",
+		"shirt1": "#1e1e1e",
+		"shirt2": "#417039",
+		"shirt3": "#417039",
+		"shorts": "#1e1e1e",
+		"socks": "#1e1e1e"
 	}
 ],
 "players": [
@@ -45,7 +44,7 @@
 		"nationality": "ESP",
 		"role": "GOALKEEPER",
 		"number": 13,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "GRAY",
 		"hairStyle": "SPECIAL_C",
 		"value": 24
@@ -109,7 +108,7 @@
 		"nationality": "ESP",
 		"role": "DEFENDER",
 		"number": 8,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "RED",
 		"hairStyle": "CURLY_D",
 		"skills": {
@@ -209,7 +208,7 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 14,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "PUNK_FUCHSIA",
 		"hairStyle": "SMOOTH_B",
 		"skills": {
@@ -232,7 +231,7 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 16,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "GRAY",
 		"hairStyle": "CURLY_B",
 		"skills": {
@@ -259,7 +258,7 @@
 		"nationality": "ESP",
 		"role": "DEFENDER",
 		"number": 9,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "RED",
 		"hairStyle": "SMOOTH_C",
 		"skills": {
@@ -287,7 +286,7 @@
 		"role": "ATTACKER",
 		"number": 21,
 		"skinColor": "PALE",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLOND",
 		"hairStyle": "SMOOTH_K",
 		"skills": {
 			"passing": 1,
@@ -312,7 +311,7 @@
 		"role": "GOALKEEPER",
 		"number": 1,
 		"skinColor": "MULATTO",
-		"hairColor": "WHITE",
+		"hairColor": "PUNK_BLOND",
 		"hairStyle": "SPECIAL_F",
 		"value": 32
 	},
@@ -370,7 +369,7 @@
 		"nationality": "ESP",
 		"role": "ATTACKER",
 		"number": 20,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "BROWN",
 		"hairStyle": "CURLY_B",
 		"skills": {
@@ -552,7 +551,7 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 28,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "PUNK_FUCHSIA",
 		"hairStyle": "SMOOTH_L",
 		"skills": {
@@ -572,7 +571,7 @@
 		"nationality": "COL",
 		"role": "RIGHT_BACK",
 		"number": 4,
-		"skinColor": "ARAB",
+		"skinColor": "ASIATIC",
 		"hairColor": "BLOND",
 		"hairStyle": "SMOOTH_J",
 		"skills": {
@@ -594,7 +593,7 @@
 		"nationality": "ESP",
 		"role": "ATTACKER",
 		"number": 19,
-		"skinColor": "ALIEN",
+		"skinColor": "PINK",
 		"hairColor": "BLACK",
 		"hairStyle": "BALD_B",
 		"skills": {
@@ -618,7 +617,7 @@
 		"nationality": "ESP",
 		"role": "RIGHT_BACK",
 		"number": 15,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "WHITE",
 		"hairStyle": "SPECIAL_D",
 		"skills": {

@@ -1,6 +1,5 @@
 {
-  "_comment": "Las Palmas 2025-26",
-"name": "LAS PALMAS",
+"name": "LAS PALMAS CF",
 "type": "CLUB",
 "country": "ESP",
 "league": "HISTÓRICOS",
@@ -14,28 +13,28 @@
 "tactics": "4-4-2",
 "kits": [
 	{
-		"style": "LARGE_STRIPS",
-		"shirt1": "#0fa05d",
-		"shirt2": "#cdc906",
-		"shirt3": "#7c127c",
-		"shorts": "#fb3a09",
-		"socks": "#730042"
+		"style": "PLAIN",
+		"shirt1": "#2e247a",
+		"shirt2": "#2e247a",
+		"shirt3": "#2e247a",
+		"shorts": "#2e247a",
+		"socks": "#2e247a"
 	},
 	{
-		"style": "BIG_V",
-		"shirt1": "#cf2f9c",
-		"shirt2": "#4692c6",
-		"shirt3": "#80542b",
-		"shorts": "#d6a105",
-		"socks": "#4501d7"
+		"style": "PLAIN",
+		"shirt1": "#f5732c",
+		"shirt2": "#f5732c",
+		"shirt3": "#f5732c",
+		"shorts": "#f5732c",
+		"socks": "#f5732c"
 	},
 	{
-		"style": "STRIP",
-		"shirt1": "#9f0a05",
-		"shirt2": "#790cd6",
-		"shirt3": "#af714b",
-		"shorts": "#50ecda",
-		"socks": "#626427"
+		"style": "PLAIN",
+		"shirt1": "#3033c1",
+		"shirt2": "#f5732c",
+		"shirt3": "#f5732c",
+		"shorts": "#3033c1",
+		"socks": "#3033c1"
 	}
 ],
 "players": [
@@ -46,7 +45,7 @@
 		"role": "GOALKEEPER",
 		"number": 1,
 		"skinColor": "PINK",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLOND",
 		"hairStyle": "SHORT_B",
 		"value": 34
 	},
@@ -56,7 +55,7 @@
 		"nationality": "ESP",
 		"role": "RIGHT_BACK",
 		"number": 2,
-		"skinColor": "MULATTO",
+		"skinColor": "PINK",
 		"hairColor": "BROWN",
 		"hairStyle": "SPECIAL_A",
 		"skills": {
@@ -79,7 +78,7 @@
 		"nationality": "ESP",
 		"role": "LEFT_BACK",
 		"number": 5,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "BROWN",
 		"hairStyle": "SMOOTH_F",
 		"skills": {
@@ -105,7 +104,7 @@
 		"role": "DEFENDER",
 		"number": 6,
 		"skinColor": "ARAB",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "SHORT_C",
 		"skills": {
 			"passing": 5,
@@ -146,7 +145,7 @@
 		"nationality": "ITA",
 		"role": "MIDFIELDER",
 		"number": 16,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "RED",
 		"hairStyle": "CURLY_E",
 		"skills": {
@@ -195,7 +194,7 @@
 		"nationality": "FRA",
 		"role": "MIDFIELDER",
 		"number": 12,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "BLOND",
 		"hairStyle": "SHORT_B",
 		"skills": {
@@ -271,7 +270,7 @@
 		"role": "ATTACKER",
 		"number": 24,
 		"skinColor": "PINK",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "SPECIAL_G",
 		"skills": {
 			"passing": 4,
@@ -306,7 +305,7 @@
 		"role": "MIDFIELDER",
 		"number": 8,
 		"skinColor": "ASIATIC",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "CURLY_A",
 		"skills": {
 			"passing": 3,
@@ -325,7 +324,7 @@
 		"nationality": "ESP",
 		"role": "RIGHT_BACK",
 		"number": 17,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "PLATINUM",
 		"hairStyle": "CURLY_D",
 		"skills": {
@@ -347,8 +346,8 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 21,
-		"skinColor": "BLACK",
-		"hairColor": "PUNK_FUCHSIA",
+		"skinColor": "PINK",
+		"hairColor": "BLACK",
 		"hairStyle": "SHAVED",
 		"skills": {
 			"passing": 4,
@@ -399,7 +398,7 @@
 		"role": "GOALKEEPER",
 		"number": 35,
 		"skinColor": "ASIATIC",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_J",
 		"value": 25
 	},
@@ -429,7 +428,7 @@
 		"nationality": "ESP",
 		"role": "LEFT_BACK",
 		"number": 23,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "WHITE",
 		"hairStyle": "SMOOTH_K",
 		"skills": {
@@ -455,7 +454,7 @@
 		"role": "MIDFIELDER",
 		"number": 26,
 		"skinColor": "PALE",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "SPECIAL_B",
 		"skills": {
 			"passing": 4,
@@ -500,7 +499,7 @@
 		"role": "MIDFIELDER",
 		"number": 20,
 		"skinColor": "RED",
-		"hairColor": "PLATINUM",
+		"hairColor": "GRAY",
 		"hairStyle": "SMOOTH_C",
 		"skills": {
 			"passing": 3,
@@ -540,7 +539,7 @@
 		"role": "MIDFIELDER",
 		"number": 9,
 		"skinColor": "PALE",
-		"hairColor": "PLATINUM",
+		"hairColor": "GRAY",
 		"hairStyle": "SMOOTH_D",
 		"skills": {
 			"passing": 2,

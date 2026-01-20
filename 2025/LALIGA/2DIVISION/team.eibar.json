@@ -1,6 +1,5 @@
 {
-  "_comment": "Eibar 2025-26",
-"name": "EIBAR",
+"name": "SD EIBAR",
 "type": "CLUB",
 "country": "ESP",
 "league": "HISTÓRICOS",
@@ -14,28 +13,28 @@
 "tactics": "4-4-2",
 "kits": [
 	{
-		"style": "BIG_V",
-		"shirt1": "#585dbe",
-		"shirt2": "#f3b704",
-		"shirt3": "#b1efe8",
-		"shorts": "#4aa548",
-		"socks": "#16af05"
+		"style": "LARGE_STRIPS",
+		"shirt1": "#3033c1",
+		"shirt2": "#993333",
+		"shirt3": "#993333",
+		"shorts": "#3033c1",
+		"socks": "#3033c1"
 	},
 	{
-		"style": "CROSS",
-		"shirt1": "#201110",
-		"shirt2": "#bb3950",
-		"shirt3": "#9c3441",
-		"shorts": "#77ece2",
-		"socks": "#66067a"
+		"style": "SIDE_LINES",
+		"shirt1": "#cac47d",
+		"shirt2": "#2e247a",
+		"shirt3": "#2e247a",
+		"shorts": "#cac47d",
+		"socks": "#cac47d"
 	},
 	{
-		"style": "BIG_CHECK",
-		"shirt1": "#137d01",
-		"shirt2": "#afc392",
-		"shirt3": "#be28e1",
-		"shorts": "#ff6c17",
-		"socks": "#569916"
+		"style": "SPICE",
+		"shirt1": "#417039",
+		"shirt2": "#a31212",
+		"shirt3": "#a31212",
+		"shorts": "#417039",
+		"socks": "#417039"
 	}
 ],
 "players": [
@@ -45,8 +44,8 @@
 		"nationality": "ESP",
 		"role": "GOALKEEPER",
 		"number": 13,
-		"skinColor": "BLACK",
-		"hairColor": "WHITE",
+		"skinColor": "PALE",
+		"hairColor": "GRAY",
 		"hairStyle": "CURLY_B",
 		"value": 18
 	},
@@ -124,8 +123,8 @@
 		"nationality": "ESP",
 		"role": "DEFENDER",
 		"number": 23,
-		"skinColor": "BLACK",
-		"hairColor": "WHITE",
+		"skinColor": "PALE",
+		"hairColor": "GRAY",
 		"hairStyle": "SMOOTH_B",
 		"skills": {
 			"passing": 4,
@@ -148,8 +147,8 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 17,
-		"skinColor": "ALIEN",
-		"hairColor": "WHITE",
+		"skinColor": "PALE",
+		"hairColor": "GRAY",
 		"hairStyle": "BALD_B",
 		"skills": {
 			"passing": 3,
@@ -304,7 +303,7 @@
 		"role": "MIDFIELDER",
 		"number": 11,
 		"skinColor": "ASIATIC",
-		"hairColor": "WHITE",
+		"hairColor": "GRAY",
 		"hairStyle": "SPECIAL_B",
 		"skills": {
 			"passing": 2,
@@ -357,7 +356,7 @@
 		"role": "RIGHT_BACK",
 		"number": 22,
 		"skinColor": "ASIATIC",
-		"hairColor": "WHITE",
+		"hairColor": "GRAY",
 		"hairStyle": "PIGTAIL_C",
 		"skills": {
 			"passing": 3,
@@ -382,7 +381,7 @@
 		"role": "DEFENDER",
 		"number": 4,
 		"skinColor": "ASIATIC",
-		"hairColor": "WHITE",
+		"hairColor": "GRAY",
 		"hairStyle": "PIGTAIL_A",
 		"skills": {
 			"passing": 6,
@@ -408,7 +407,7 @@
 		"role": "MIDFIELDER",
 		"number": 5,
 		"skinColor": "PINK",
-		"hairColor": "PLATINUM",
+		"hairColor": "RED",
 		"hairStyle": "SPECIAL_B",
 		"skills": {
 			"passing": 4,
@@ -432,8 +431,8 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 14,
-		"skinColor": "BLACK",
-		"hairColor": "RED",
+		"skinColor": "PINK",
+		"hairColor": "BROWN",
 		"hairStyle": "PIGTAIL_B",
 		"skills": {
 			"passing": 4,
@@ -460,7 +459,7 @@
 		"number": 7,
 		"skinColor": "MULATTO",
 		"hairColor": "GRAY",
-		"hairStyle": "SPECIAL_G",
+		"hairStyle": "SPECIAL_C",
 		"skills": {
 			"passing": 2,
 			"shooting": 4,
@@ -509,8 +508,8 @@
 		"nationality": "ESP",
 		"role": "ATTACKER",
 		"number": 19,
-		"skinColor": "BLACK",
-		"hairColor": "PLATINUM",
+		"skinColor": "PINK",
+		"hairColor": "RED",
 		"hairStyle": "SMOOTH_C",
 		"skills": {
 			"passing": 2,
@@ -554,7 +553,7 @@
 		"role": "LEFT_BACK",
 		"number": 3,
 		"skinColor": "ASIATIC",
-		"hairColor": "PLATINUM",
+		"hairColor": "RED",
 		"hairStyle": "SMOOTH_B",
 		"skills": {
 			"passing": 5,
@@ -576,7 +575,7 @@
 		"role": "DEFENDER",
 		"number": 15,
 		"skinColor": "RED",
-		"hairColor": "PLATINUM",
+		"hairColor": "RED",
 		"hairStyle": "SPECIAL_H",
 		"skills": {
 			"passing": 4,
@@ -601,7 +600,7 @@
 		"role": "ATTACKER",
 		"number": 27,
 		"skinColor": "ARAB",
-		"hairColor": "PLATINUM",
+		"hairColor": "RED",
 		"hairStyle": "CURLY_C",
 		"skills": {
 			"passing": 2,

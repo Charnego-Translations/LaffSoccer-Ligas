@@ -1,6 +1,5 @@
 {
-  "_comment": "Cádiz 2025-26",
-"name": "CÁDIZ",
+"name": "CÁDIZ CF",
 "type": "CLUB",
 "country": "ESP",
 "league": "HISTÓRICOS",
@@ -14,28 +13,28 @@
 "tactics": "4-4-2",
 "kits": [
 	{
-		"style": "SPICE",
-		"shirt1": "#547476",
-		"shirt2": "#34fcbb",
-		"shirt3": "#bef038",
-		"shorts": "#5f07da",
-		"socks": "#1e0da1"
+		"style": "SIDE_LINES",
+		"shirt1": "#e8ef2f",
+		"shirt2": "#3033c1",
+		"shirt3": "#3033c1",
+		"shorts": "#3033c1",
+		"socks": "#3033c1"
 	},
 	{
-		"style": "STRIP",
-		"shirt1": "#e66dd1",
-		"shirt2": "#9d5279",
-		"shirt3": "#d47750",
-		"shorts": "#69b6bc",
-		"socks": "#f3ed11"
+		"style": "SIDE_LINES",
+		"shirt1": "#993333",
+		"shirt2": "#e8ef2f",
+		"shirt3": "#e8ef2f",
+		"shorts": "#1e1e1e",
+		"socks": "#1e1e1e"
 	},
 	{
-		"style": "BIG_V",
-		"shirt1": "#9ea598",
-		"shirt2": "#c48b51",
-		"shirt3": "#6f55e8",
-		"shorts": "#adce24",
-		"socks": "#ae8c52"
+		"style": "SLEEVES",
+		"shirt1": "#417039",
+		"shirt2": "#1e1e1e",
+		"shirt3": "#1e1e1e",
+		"shorts": "#1e1e1e",
+		"socks": "#1e1e1e"
 	}
 ],
 "players": [
@@ -149,7 +148,7 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 5,
-		"skinColor": "ASIATIC",
+		"skinColor": "ARAB",
 		"hairColor": "BLOND",
 		"hairStyle": "SMOOTH_L",
 		"skills": {
@@ -216,8 +215,8 @@
 		"role": "ATTACKER",
 		"number": 23,
 		"skinColor": "ARAB",
-		"hairColor": "PUNK_FUCHSIA",
-		"hairStyle": "SMOOTH_O",
+		"hairColor": "GRAY",
+		"hairStyle": "SMOOTH_N",
 		"skills": {
 			"passing": 3,
 			"shooting": 2,
@@ -235,12 +234,12 @@
 		]
 	},
 	{
-		"name": "JESÚS JOAQUÍN FERNÁNDEZ SÁENZ DE LA TORRE",
+		"name": "JESÚS JOAQUÍN FERNÁNDEZ SÁENZ",
 		"shirtName": "SUSO",
 		"nationality": "ESP",
 		"role": "ATTACKER",
 		"number": 11,
-		"skinColor": "ASIATIC",
+		"skinColor": "ARAB",
 		"hairColor": "WHITE",
 		"hairStyle": "SPECIAL_C",
 		"skills": {
@@ -408,7 +407,7 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 8,
-		"skinColor": "ASIATIC",
+		"skinColor": "ARAB",
 		"hairColor": "GRAY",
 		"hairStyle": "BALD_B",
 		"skills": {
@@ -456,8 +455,8 @@
 		"nationality": "ESP",
 		"role": "DEFENDER",
 		"number": 2,
-		"skinColor": "ALIEN",
-		"hairColor": "PUNK_FUCHSIA",
+		"skinColor": "RED",
+		"hairColor": "GRAY",
 		"hairStyle": "SPECIAL_F",
 		"skills": {
 			"passing": 3,
@@ -480,7 +479,7 @@
 		"role": "ATTACKER",
 		"number": 7,
 		"skinColor": "PINK",
-		"hairColor": "PLATINUM",
+		"hairColor": "RED",
 		"hairStyle": "SMOOTH_P",
 		"skills": {
 			"passing": 1,
@@ -527,7 +526,7 @@
 		"role": "LEFT_BACK",
 		"number": 33,
 		"skinColor": "PINK",
-		"hairColor": "PLATINUM",
+		"hairColor": "RED",
 		"hairStyle": "SMOOTH_B",
 		"skills": {
 			"passing": 4,
@@ -555,7 +554,7 @@
 		"number": 27,
 		"skinColor": "ARAB",
 		"hairColor": "WHITE",
-		"hairStyle": "SPECIAL_G",
+		"hairStyle": "THINNING_C",
 		"skills": {
 			"passing": 2,
 			"shooting": 3,
@@ -578,8 +577,8 @@
 		"role": "RIGHT_BACK",
 		"number": 34,
 		"skinColor": "PALE",
-		"hairColor": "PLATINUM",
-		"hairStyle": "SPECIAL_C",
+		"hairColor": "RED",
+		"hairStyle": "CURLY_C",
 		"skills": {
 			"passing": 4,
 			"shooting": 3,
@@ -605,7 +604,7 @@
 		"number": 24,
 		"skinColor": "ARAB",
 		"hairColor": "WHITE",
-		"hairStyle": "PIGTAIL_C",
+		"hairStyle": "SHAVED",
 		"skills": {
 			"passing": 3,
 			"shooting": 5,

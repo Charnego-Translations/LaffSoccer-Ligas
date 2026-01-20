@@ -1,5 +1,4 @@
 {
-  "_comment": "Albacete 2025-26",
 "name": "ALBACETE",
 "type": "CLUB",
 "country": "ESP",
@@ -15,27 +14,27 @@
 "kits": [
 	{
 		"style": "SPICE",
-		"shirt1": "#e29c2c",
-		"shirt2": "#bac1c4",
-		"shirt3": "#85272f",
-		"shorts": "#4c9e1e",
-		"socks": "#9fd729"
+		"shirt1": "#dfe8eb",
+		"shirt2": "#1e1e1e",
+		"shirt3": "#1e1e1e",
+		"shorts": "#dfe8eb",
+		"socks": "#dfe8eb"
 	},
 	{
-		"style": "DIAGONAL",
-		"shirt1": "#543437",
-		"shirt2": "#a6f73f",
-		"shirt3": "#d1fb8f",
-		"shorts": "#669c62",
-		"socks": "#db4e12"
+		"style": "SPICE",
+		"shirt1": "#f61c1c",
+		"shirt2": "#949494",
+		"shirt3": "#949494",
+		"shorts": "#949494",
+		"socks": "#afb2b9"
 	},
 	{
-		"style": "BAND",
-		"shirt1": "#8a5a14",
-		"shirt2": "#5e1f66",
-		"shirt3": "#6184dd",
-		"shorts": "#77a8a5",
-		"socks": "#1f4c4f"
+		"style": "ARMBAND",
+		"shirt1": "#e8ef2f",
+		"shirt2": "#1e1e1e",
+		"shirt3": "#1e1e1e",
+		"shorts": "#e8ef2f",
+		"socks": "#e8ef2f"
 	}
 ],
 "players": [
@@ -57,7 +56,7 @@
 		"role": "RIGHT_BACK",
 		"number": 15,
 		"skinColor": "RED",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BROWN",
 		"hairStyle": "SPECIAL_D",
 		"skills": {
 			"passing": 2,
@@ -82,7 +81,7 @@
 		"nationality": "ESP",
 		"role": "LEFT_BACK",
 		"number": 21,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "BLOND",
 		"hairStyle": "SPECIAL_G",
 		"skills": {
@@ -103,7 +102,7 @@
 		"role": "DEFENDER",
 		"number": 24,
 		"skinColor": "MULATTO",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "GRAY",
 		"hairStyle": "SMOOTH_L",
 		"skills": {
 			"passing": 3,
@@ -126,7 +125,7 @@
 		"nationality": "MEX",
 		"role": "LEFT_BACK",
 		"number": 3,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "BROWN",
 		"hairStyle": "THINNING_A",
 		"skills": {
@@ -251,8 +250,8 @@
 		"nationality": "ESP",
 		"role": "ATTACKER",
 		"number": 7,
-		"skinColor": "ALIEN",
-		"hairColor": "PUNK_FUCHSIA",
+		"skinColor": "PINK",
+		"hairColor": "RED",
 		"hairStyle": "THINNING_A",
 		"skills": {
 			"passing": 1,
@@ -278,7 +277,7 @@
 		"nationality": "ESP",
 		"role": "ATTACKER",
 		"number": 16,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "RED",
 		"hairStyle": "SMOOTH_H",
 		"skills": {
@@ -304,7 +303,7 @@
 		"nationality": "ESP",
 		"role": "GOALKEEPER",
 		"number": 13,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "BROWN",
 		"hairStyle": "SHORT_A",
 		"value": 13
@@ -315,7 +314,7 @@
 		"nationality": "ESP",
 		"role": "ATTACKER",
 		"number": 10,
-		"skinColor": "ASIATIC",
+		"skinColor": "PALE",
 		"hairColor": "RED",
 		"hairStyle": "THINNING_C",
 		"skills": {
@@ -387,7 +386,7 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 18,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "BLOND",
 		"hairStyle": "SMOOTH_N",
 		"skills": {
@@ -421,7 +420,7 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 6,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "PLATINUM",
 		"hairStyle": "PIGTAIL_A",
 		"skills": {
@@ -445,8 +444,8 @@
 		"nationality": "ESP",
 		"role": "DEFENDER",
 		"number": 23,
-		"skinColor": "ALIEN",
-		"hairColor": "PUNK_FUCHSIA",
+		"skinColor": "RED",
+		"hairColor": "RED",
 		"hairStyle": "SMOOTH_J",
 		"skills": {
 			"passing": 2,
@@ -492,7 +491,7 @@
 		"nationality": "ESP",
 		"role": "RIGHT_BACK",
 		"number": 2,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "WHITE",
 		"hairStyle": "SMOOTH_I",
 		"skills": {
@@ -566,7 +565,7 @@
 		"nationality": "ESP",
 		"role": "DEFENDER",
 		"number": 9,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "RED",
 		"hairStyle": "SMOOTH_L",
 		"skills": {
@@ -589,7 +588,7 @@
 		"role": "LEFT_BACK",
 		"number": 27,
 		"skinColor": "PALE",
-		"hairColor": "WHITE",
+		"hairColor": "GRAY",
 		"hairStyle": "THINNING_B",
 		"skills": {
 			"passing": 3,
@@ -614,7 +613,7 @@
 		"role": "MIDFIELDER",
 		"number": 35,
 		"skinColor": "PINK",
-		"hairColor": "WHITE",
+		"hairColor": "GRAY",
 		"hairStyle": "SMOOTH_C",
 		"skills": {
 			"passing": 4,

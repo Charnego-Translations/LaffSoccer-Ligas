@@ -1,6 +1,5 @@
 {
-  "_comment": "Granada 2025-26",
-"name": "GRANADA",
+"name": "GRANADA CF",
 "type": "CLUB",
 "country": "ESP",
 "league": "HISTÓRICOS",
@@ -14,28 +13,28 @@
 "tactics": "4-4-2",
 "kits": [
 	{
-		"style": "DIAGONAL",
-		"shirt1": "#7308a3",
-		"shirt2": "#7dc868",
-		"shirt3": "#53b203",
-		"shorts": "#9467f3",
-		"socks": "#b41f53"
+		"style": "HORIZONTAL",
+		"shirt1": "#f61c1c",
+		"shirt2": "#dfe8eb",
+		"shirt3": "#dfe8eb",
+		"shorts": "#3033c1",
+		"socks": "#dfe8eb"
 	},
 	{
-		"style": "VERTICAL_HALF",
-		"shirt1": "#e7c1f5",
-		"shirt2": "#ae1058",
-		"shirt3": "#13ae4c",
-		"shorts": "#507223",
-		"socks": "#88646c"
+		"style": "HORIZONTAL",
+		"shirt1": "#3033c1",
+		"shirt2": "#dfe8eb",
+		"shirt3": "#dfe8eb",
+		"shorts": "#dfe8eb",
+		"socks": "#3033c1"
 	},
 	{
-		"style": "VERTICAL_HALF",
-		"shirt1": "#ec5fa4",
-		"shirt2": "#d34a87",
-		"shirt3": "#b87a75",
-		"shorts": "#988662",
-		"socks": "#9b27be"
+		"style": "SIDE_LINES",
+		"shirt1": "#5083b8",
+		"shirt2": "#949494",
+		"shirt3": "#949494",
+		"shorts": "#5083b8",
+		"socks": "#5083b8"
 	}
 ],
 "players": [
@@ -103,7 +102,7 @@
 		"nationality": "ESP",
 		"role": "DEFENDER",
 		"number": 28,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_H",
 		"skills": {
@@ -123,12 +122,12 @@
 		]
 	},
 	{
-		"name": "LOÏC WILLIAMS NTAMBUE KAYUMBA GIRONÉS",
+		"name": "LOÏC WILLIAMS NTAMBUE KAYUMBA",
 		"shirtName": "LOÏC WILLIAMS",
 		"nationality": "ESP",
 		"role": "DEFENDER",
 		"number": 24,
-		"skinColor": "ARAB",
+		"skinColor": "BLACK",
 		"hairColor": "BLACK",
 		"hairStyle": "BALD_A",
 		"skills": {
@@ -148,7 +147,7 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 8,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "PLATINUM",
 		"hairStyle": "THINNING_A",
 		"skills": {
@@ -199,7 +198,7 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 4,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "BLACK",
 		"hairStyle": "SPECIAL_E",
 		"skills": {
@@ -251,7 +250,7 @@
 		"nationality": "ESP",
 		"role": "ATTACKER",
 		"number": 19,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "BLACK",
 		"hairStyle": "BALD_B",
 		"skills": {
@@ -306,7 +305,7 @@
 		"nationality": "ESP",
 		"role": "RIGHT_BACK",
 		"number": 2,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "BLACK",
 		"hairStyle": "SPECIAL_F",
 		"skills": {
@@ -436,9 +435,9 @@
 		"nationality": "MAR",
 		"role": "DEFENDER",
 		"number": 10,
-		"skinColor": "ALIEN",
+		"skinColor": "MULATTO",
 		"hairColor": "PLATINUM",
-		"hairStyle": "SPECIAL_G",
+		"hairStyle": "BALD_A",
 		"skills": {
 			"passing": 4,
 			"shooting": 2,
@@ -463,7 +462,7 @@
 		"nationality": "ESP",
 		"role": "DEFENDER",
 		"number": 3,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "RED",
 		"hairStyle": "SMOOTH_A",
 		"skills": {
@@ -489,7 +488,7 @@
 		"role": "MIDFIELDER",
 		"number": 23,
 		"skinColor": "PALE",
-		"hairColor": "PLATINUM",
+		"hairColor": "WHITE",
 		"hairStyle": "BALD_A",
 		"skills": {
 			"passing": 4,
@@ -515,7 +514,7 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 18,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "PLATINUM",
 		"hairStyle": "CURLY_D",
 		"skills": {
@@ -559,7 +558,7 @@
 		"nationality": "ESP",
 		"role": "ATTACKER",
 		"number": 33,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "RED",
 		"hairStyle": "SMOOTH_B",
 		"skills": {
@@ -583,7 +582,7 @@
 		"role": "ATTACKER",
 		"number": 10,
 		"skinColor": "ARAB",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "PUNK_BLOND",
 		"hairStyle": "SPECIAL_H",
 		"skills": {
 			"passing": 2,
@@ -607,7 +606,7 @@
 		"nationality": "ESP",
 		"role": "DEFENDER",
 		"number": 9,
-		"skinColor": "ASIATIC",
+		"skinColor": "ARAB",
 		"hairColor": "PUNK_FUCHSIA",
 		"hairStyle": "SPECIAL_E",
 		"skills": {

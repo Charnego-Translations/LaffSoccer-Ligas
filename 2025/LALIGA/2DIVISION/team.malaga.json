@@ -1,6 +1,5 @@
 {
-  "_comment": "Málaga 2025-26",
-"name": "MÁLAGA",
+"name": "MÁLAGA CF",
 "type": "CLUB",
 "country": "ESP",
 "league": "HISTÓRICOS",
@@ -14,28 +13,28 @@
 "tactics": "4-4-2",
 "kits": [
 	{
+		"style": "VERTICAL",
+		"shirt1": "#dfe8eb",
+		"shirt2": "#7be2e3",
+		"shirt3": "#7be2e3",
+		"shorts": "#3033c1",
+		"socks": "#3033c1"
+	},
+	{
 		"style": "DIAGONAL",
-		"shirt1": "#98d229",
-		"shirt2": "#2f9b3c",
-		"shirt3": "#61716d",
-		"shorts": "#d3294a",
-		"socks": "#f6c576"
+		"shirt1": "#1e1e1e",
+		"shirt2": "#5d2399",
+		"shirt3": "#47bfeb",
+		"shorts": "#1e1e1e",
+		"socks": "#1e1e1e"
 	},
 	{
-		"style": "PLAIN",
-		"shirt1": "#fde16a",
-		"shirt2": "#9fb53c",
-		"shirt3": "#503a05",
-		"shorts": "#f2f167",
-		"socks": "#80c919"
-	},
-	{
-		"style": "VERTICAL_STRIP",
-		"shirt1": "#8b091a",
-		"shirt2": "#3e8566",
-		"shirt3": "#9c5183",
-		"shorts": "#c1f1af",
-		"socks": "#bef72f"
+		"style": "SLEEVES",
+		"shirt1": "#f5732c",
+		"shirt2": "#2e247a",
+		"shirt3": "#2e247a",
+		"shorts": "#f5732c",
+		"socks": "#f5732c"
 	}
 ],
 "players": [
@@ -76,7 +75,7 @@
 		"nationality": "ESP",
 		"role": "LEFT_BACK",
 		"number": 14,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "BLOND",
 		"hairStyle": "CURLY_E",
 		"skills": {
@@ -209,7 +208,7 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 23,
-		"skinColor": "MULATTO",
+		"skinColor": "ARAB",
 		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_C",
 		"skills": {
@@ -235,7 +234,7 @@
 		"nationality": "ESP",
 		"role": "ATTACKER",
 		"number": 11,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "BLOND",
 		"hairStyle": "SMOOTH_A",
 		"skills": {
@@ -297,7 +296,7 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 37,
-		"skinColor": "ASIATIC",
+		"skinColor": "RED",
 		"hairColor": "RED",
 		"hairStyle": "CURLY_D",
 		"skills": {
@@ -323,7 +322,7 @@
 		"nationality": "ESP",
 		"role": "ATTACKER",
 		"number": 24,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "BROWN",
 		"hairStyle": "SPECIAL_B",
 		"skills": {
@@ -444,7 +443,7 @@
 		"role": "RIGHT_BACK",
 		"number": 31,
 		"skinColor": "PALE",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_O",
 		"skills": {
 			"passing": 5,
@@ -535,7 +534,7 @@
 		"role": "MIDFIELDER",
 		"number": 5,
 		"skinColor": "PALE",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "SHORT_B",
 		"skills": {
 			"passing": 2,
@@ -559,7 +558,7 @@
 		"nationality": "ESP",
 		"role": "RIGHT_BACK",
 		"number": 2,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "PLATINUM",
 		"hairStyle": "SMOOTH_D",
 		"skills": {
@@ -584,8 +583,8 @@
 		"nationality": "MAR",
 		"role": "ATTACKER",
 		"number": 7,
-		"skinColor": "ALIEN",
-		"hairColor": "WHITE",
+		"skinColor": "MULATTO",
+		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_P",
 		"skills": {
 			"passing": 2,

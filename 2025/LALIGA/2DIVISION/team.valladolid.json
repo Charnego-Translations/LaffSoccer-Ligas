@@ -1,6 +1,5 @@
 {
-  "_comment": "Valladolid 2025-26",
-"name": "VALLADOLID",
+"name": "REAL VALLADOLID",
 "type": "CLUB",
 "country": "ESP",
 "league": "HISTÓRICOS",
@@ -14,33 +13,33 @@
 "tactics": "4-4-2",
 "kits": [
 	{
-		"style": "ARMBAND",
-		"shirt1": "#746ab7",
-		"shirt2": "#a87b2d",
-		"shirt3": "#5d865f",
-		"shorts": "#1cf383",
-		"socks": "#90ff22"
+		"style": "VERTICAL",
+		"shirt1": "#dfe8eb",
+		"shirt2": "#5d2399",
+		"shirt3": "#5d2399",
+		"shorts": "#dfe8eb",
+		"socks": "#5d2399"
 	},
 	{
-		"style": "SIDE_LINES",
-		"shirt1": "#2225bb",
-		"shirt2": "#fbabc9",
-		"shirt3": "#0ab7bf",
-		"shorts": "#08d25c",
-		"socks": "#1fb000"
+		"style": "VERTICAL",
+		"shirt1": "#5d2399",
+		"shirt2": "#1e1e1e",
+		"shirt3": "#1e1e1e",
+		"shorts": "#1e1e1e",
+		"socks": "#1e1e1e"
 	},
 	{
-		"style": "SLEEVES",
-		"shirt1": "#66b01a",
-		"shirt2": "#049a7f",
-		"shirt3": "#5592ea",
-		"shorts": "#376cea",
-		"socks": "#f26fa8"
+		"style": "PLAIN",
+		"shirt1": "#ffd200",
+		"shirt2": "#5d2399",
+		"shirt3": "#5d2399",
+		"shorts": "#ffd200",
+		"socks": "#ffd200"
 	}
 ],
 "players": [
 	{
-		"name": "GUILHERME DE SOUSA CARVALHO FERNANDES",
+		"name": "GUILHERME DE SOUSA CARVALHO",
 		"shirtName": "GUILHERME",
 		"nationality": "POR",
 		"role": "GOALKEEPER",
@@ -56,7 +55,7 @@
 		"nationality": "ESP",
 		"role": "RIGHT_BACK",
 		"number": 14,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "GRAY",
 		"hairStyle": "PIGTAIL_A",
 		"skills": {
@@ -79,7 +78,7 @@
 		"nationality": "ESP",
 		"role": "LEFT_BACK",
 		"number": 3,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "GRAY",
 		"hairStyle": "SPECIAL_C",
 		"skills": {
@@ -131,8 +130,8 @@
 		"nationality": "ESP",
 		"role": "DEFENDER",
 		"number": 15,
-		"skinColor": "ALIEN",
-		"hairColor": "WHITE",
+		"skinColor": "RED",
+		"hairColor": "GRAY",
 		"hairStyle": "SMOOTH_F",
 		"skills": {
 			"passing": 4,
@@ -154,7 +153,7 @@
 		"role": "MIDFIELDER",
 		"number": 24,
 		"skinColor": "PALE",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "SPECIAL_E",
 		"skills": {
 			"passing": 4,
@@ -177,7 +176,7 @@
 		"role": "MIDFIELDER",
 		"number": 21,
 		"skinColor": "RED",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "SPECIAL_F",
 		"skills": {
 			"passing": 1,
@@ -242,7 +241,7 @@
 		]
 	},
 	{
-		"name": "JUAN MIGUEL LATASA FERNÁNDEZ LAYOS",
+		"name": "JUAN MIGUEL LATASA FERNÁNDEZ",
 		"shirtName": "LATASA",
 		"nationality": "ESP",
 		"role": "DEFENDER",
@@ -307,7 +306,7 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 8,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "BLOND",
 		"hairStyle": "PIGTAIL_B",
 		"skills": {
@@ -374,7 +373,7 @@
 		"nationality": "BRA",
 		"role": "ATTACKER",
 		"number": 10,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "BLOND",
 		"hairStyle": "BALD_A",
 		"skills": {
@@ -406,7 +405,7 @@
 		"role": "MIDFIELDER",
 		"number": 7,
 		"skinColor": "RED",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "SPECIAL_H",
 		"skills": {
 			"passing": 4,
@@ -456,7 +455,7 @@
 		"role": "MIDFIELDER",
 		"number": 12,
 		"skinColor": "PINK",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "SPECIAL_G",
 		"skills": {
 			"passing": 3,
@@ -551,8 +550,8 @@
 		"nationality": "MAR",
 		"role": "DEFENDER",
 		"number": 23,
-		"skinColor": "BLACK",
-		"hairColor": "WHITE",
+		"skinColor": "PINK",
+		"hairColor": "GRAY",
 		"hairStyle": "SMOOTH_H",
 		"skills": {
 			"passing": 4,
@@ -578,7 +577,7 @@
 		"role": "ATTACKER",
 		"number": 28,
 		"skinColor": "RED",
-		"hairColor": "WHITE",
+		"hairColor": "GRAY",
 		"hairStyle": "SMOOTH_E",
 		"skills": {
 			"passing": 2,
@@ -598,7 +597,7 @@
 		"role": "MIDFIELDER",
 		"number": 16,
 		"skinColor": "RED",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "GRAY",
 		"hairStyle": "SHORT_C",
 		"skills": {
 			"passing": 3,

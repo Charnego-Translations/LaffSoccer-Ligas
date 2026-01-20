@@ -1,6 +1,5 @@
 {
-  "_comment": "Almería 2025-26",
-"name": "ALMERÍA",
+"name": "UD ALMERÍA",
 "type": "CLUB",
 "country": "ESP",
 "league": "HISTÓRICOS",
@@ -14,28 +13,28 @@
 "tactics": "4-4-2",
 "kits": [
 	{
-		"style": "BIG_V",
-		"shirt1": "#23eb0e",
-		"shirt2": "#aaa9dd",
-		"shirt3": "#943465",
-		"shorts": "#37b980",
-		"socks": "#37378b"
+		"style": "LARGE_STRIPS",
+		"shirt1": "#f61c1c",
+		"shirt2": "#dfe8eb",
+		"shirt3": "#dfe8eb",
+		"shorts": "#f61c1c",
+		"socks": "#dfe8eb"
 	},
 	{
-		"style": "HORIZONTAL",
-		"shirt1": "#b8bbd1",
-		"shirt2": "#164955",
-		"shirt3": "#eadf60",
-		"shorts": "#f85d69",
-		"socks": "#dc62d4"
+		"style": "CHECK",
+		"shirt1": "#949494",
+		"shirt2": "#417039",
+		"shirt3": "#417039",
+		"shorts": "#417039",
+		"socks": "#417039"
 	},
 	{
-		"style": "VERTICAL",
-		"shirt1": "#64b062",
-		"shirt2": "#231a72",
-		"shirt3": "#0f5b4d",
-		"shorts": "#90485b",
-		"socks": "#f6a8d0"
+		"style": "PLAIN",
+		"shirt1": "#ffd200",
+		"shirt2": "#1e1e1e",
+		"shirt3": "#1e1e1e",
+		"shorts": "#ffd200",
+		"socks": "#ffd200"
 	}
 ],
 "players": [
@@ -45,7 +44,7 @@
 		"nationality": "ESP",
 		"role": "GOALKEEPER",
 		"number": 1,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "BROWN",
 		"hairStyle": "SMOOTH_F",
 		"value": 10
@@ -177,7 +176,7 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 17,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "BLOND",
 		"hairStyle": "SMOOTH_E",
 		"skills": {
@@ -200,7 +199,7 @@
 		"nationality": "SRB",
 		"role": "MIDFIELDER",
 		"number": 29,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "BROWN",
 		"hairStyle": "CURLY_C",
 		"skills": {
@@ -246,7 +245,7 @@
 		"nationality": "ESP",
 		"role": "ATTACKER",
 		"number": 23,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "BLACK",
 		"hairStyle": "SHORT_B",
 		"skills": {
@@ -298,7 +297,7 @@
 		"nationality": "ESP",
 		"role": "GOALKEEPER",
 		"number": 13,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "RED",
 		"hairStyle": "SMOOTH_O",
 		"value": 39
@@ -309,7 +308,7 @@
 		"nationality": "ESP",
 		"role": "ATTACKER",
 		"number": 2,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "GRAY",
 		"hairStyle": "SPECIAL_F",
 		"skills": {
@@ -332,7 +331,7 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 10,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "RED",
 		"hairStyle": "SPECIAL_D",
 		"skills": {
@@ -374,7 +373,7 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 14,
-		"skinColor": "ARAB",
+		"skinColor": "MULATTO",
 		"hairColor": "PUNK_FUCHSIA",
 		"hairStyle": "SPECIAL_F",
 		"skills": {
@@ -401,7 +400,7 @@
 		"nationality": "ESP",
 		"role": "GOALKEEPER",
 		"number": 31,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "GRAY",
 		"hairStyle": "SMOOTH_N",
 		"value": 31
@@ -508,7 +507,7 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 5,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "WHITE",
 		"hairStyle": "THINNING_C",
 		"skills": {
@@ -599,7 +598,7 @@
 		"nationality": "ESP",
 		"role": "DEFENDER",
 		"number": 32,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "GRAY",
 		"hairStyle": "SHORT_C",
 		"skills": {

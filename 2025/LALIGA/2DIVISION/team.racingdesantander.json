@@ -1,6 +1,5 @@
 {
-  "_comment": "Racing de Santander 2025-26",
-"name": "RACING DE SANTANDER",
+"name": "REAL RACING CLUB",
 "type": "CLUB",
 "country": "ESP",
 "league": "HISTÓRICOS",
@@ -14,28 +13,28 @@
 "tactics": "4-4-2",
 "kits": [
 	{
-		"style": "BIG_CHECK",
-		"shirt1": "#925037",
-		"shirt2": "#dd5f37",
-		"shirt3": "#b560c1",
-		"shorts": "#1c4f3f",
-		"socks": "#25c370"
+		"style": "PLAIN",
+		"shirt1": "#dfe8eb",
+		"shirt2": "#81ff11",
+		"shirt3": "#81ff11",
+		"shorts": "#1e1e1e",
+		"socks": "#417039"
 	},
 	{
-		"style": "BIG_CHECK",
-		"shirt1": "#7eef9a",
-		"shirt2": "#ebd9b6",
-		"shirt3": "#c1e2ab",
-		"shorts": "#7f284d",
-		"socks": "#0d093d"
+		"style": "PLAIN",
+		"shirt1": "#417039",
+		"shirt2": "#30c52c",
+		"shirt3": "#30c52c",
+		"shorts": "#417039",
+		"socks": "#1e1e1e"
 	},
 	{
-		"style": "LARGE_STRIPS",
-		"shirt1": "#65db1c",
-		"shirt2": "#5510c2",
-		"shirt3": "#1d76a6",
-		"shorts": "#4fe11d",
-		"socks": "#39ac6b"
+		"style": "SLEEVES",
+		"shirt1": "#f61c1c",
+		"shirt2": "#dfe8eb",
+		"shirt3": "#f61c1c",
+		"shorts": "#dfe8eb",
+		"socks": "#f61c1c"
 	}
 ],
 "players": [
@@ -78,7 +77,7 @@
 		"nationality": "ESP",
 		"role": "LEFT_BACK",
 		"number": 32,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "GRAY",
 		"hairStyle": "SPECIAL_A",
 		"skills": {
@@ -171,7 +170,7 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 18,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "GRAY",
 		"hairStyle": "SMOOTH_E",
 		"skills": {
@@ -214,7 +213,7 @@
 		"nationality": "ESP",
 		"role": "ATTACKER",
 		"number": 11,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "PUNK_FUCHSIA",
 		"hairStyle": "SPECIAL_H",
 		"skills": {
@@ -264,7 +263,7 @@
 		"nationality": "ESP",
 		"role": "ATTACKER",
 		"number": 15,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "WHITE",
 		"hairStyle": "SMOOTH_F",
 		"skills": {
@@ -289,7 +288,7 @@
 		"nationality": "ESP",
 		"role": "GOALKEEPER",
 		"number": 13,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "RED",
 		"hairStyle": "SMOOTH_D",
 		"value": 37
@@ -322,7 +321,7 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 14,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "PUNK_FUCHSIA",
 		"hairStyle": "SPECIAL_H",
 		"skills": {
@@ -344,7 +343,7 @@
 		"nationality": "URU",
 		"role": "DEFENDER",
 		"number": 16,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "PUNK_FUCHSIA",
 		"hairStyle": "SPECIAL_E",
 		"skills": {
@@ -497,7 +496,7 @@
 		"role": "MIDFIELDER",
 		"number": 7,
 		"skinColor": "MULATTO",
-		"hairColor": "PLATINUM",
+		"hairColor": "GRAY",
 		"hairStyle": "BALD_B",
 		"skills": {
 			"passing": 2,
@@ -570,7 +569,7 @@
 		"nationality": "ESP",
 		"role": "DEFENDER",
 		"number": 9,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "PLATINUM",
 		"hairStyle": "SHORT_B",
 		"skills": {

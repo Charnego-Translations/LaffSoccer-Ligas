@@ -1,5 +1,4 @@
 {
-  "_comment": "Cultural Leonesa 2025-26",
 "name": "CULTURAL LEONESA",
 "type": "CLUB",
 "country": "ESP",
@@ -15,27 +14,27 @@
 "kits": [
 	{
 		"style": "PLAIN",
-		"shirt1": "#5696af",
-		"shirt2": "#fda40b",
-		"shirt3": "#a80cbd",
-		"shorts": "#18c3d1",
-		"socks": "#90e052"
+		"shirt1": "#dfe8eb",
+		"shirt2": "#993333",
+		"shirt3": "#993333",
+		"shorts": "#dfe8eb",
+		"socks": "#dfe8eb"
 	},
 	{
-		"style": "DIAGONAL_HALF",
-		"shirt1": "#5e28e8",
-		"shirt2": "#a0320b",
-		"shirt3": "#f65098",
-		"shorts": "#8029c9",
-		"socks": "#3a6f25"
+		"style": "PLAIN",
+		"shirt1": "#1e1e1e",
+		"shirt2": "#a31212",
+		"shirt3": "#a31212",
+		"shorts": "#1e1e1e",
+		"socks": "#1e1e1e"
 	},
 	{
-		"style": "CHECK",
-		"shirt1": "#470da5",
-		"shirt2": "#f06c4e",
-		"shirt3": "#45b198",
-		"shorts": "#41906d",
-		"socks": "#24ab8d"
+		"style": "SIDE_LINES",
+		"shirt1": "#993333",
+		"shirt2": "#f5732c",
+		"shirt3": "#f5732c",
+		"shorts": "#993333",
+		"socks": "#993333"
 	}
 ],
 "players": [
@@ -56,8 +55,8 @@
 		"nationality": "ESP",
 		"role": "RIGHT_BACK",
 		"number": 17,
-		"skinColor": "BLACK",
-		"hairColor": "PUNK_FUCHSIA",
+		"skinColor": "PALE",
+		"hairColor": "BROWN",
 		"hairStyle": "SPECIAL_C",
 		"skills": {
 			"passing": 5,
@@ -184,7 +183,7 @@
 		"nationality": "GIN",
 		"role": "MIDFIELDER",
 		"number": 23,
-		"skinColor": "ALIEN",
+		"skinColor": "BLACK",
 		"hairColor": "RED",
 		"hairStyle": "BALD_A",
 		"skills": {
@@ -209,7 +208,7 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 14,
-		"skinColor": "BLACK",
+		"skinColor": "PALE",
 		"hairColor": "BROWN",
 		"hairStyle": "SHORT_A",
 		"skills": {
@@ -235,7 +234,7 @@
 		"role": "ATTACKER",
 		"number": 10,
 		"skinColor": "MULATTO",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BROWN",
 		"hairStyle": "CURLY_B",
 		"skills": {
 			"passing": 1,
@@ -255,7 +254,7 @@
 		"role": "ATTACKER",
 		"number": 9,
 		"skinColor": "PALE",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BROWN",
 		"hairStyle": "SPECIAL_F",
 		"skills": {
 			"passing": 4,
@@ -269,7 +268,7 @@
 		"bestSkills": []
 	},
 	{
-		"name": "AGUSTÍN ENMANUEL PASTORIZA CACABELOS",
+		"name": "AGUSTÍN ENMANUEL PASTORIZA",
 		"shirtName": "PIBE PASTORIZA",
 		"nationality": "ARG",
 		"role": "ATTACKER",
@@ -308,7 +307,7 @@
 		"nationality": "ESP",
 		"role": "ATTACKER",
 		"number": 7,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "WHITE",
 		"hairStyle": "BALD_B",
 		"skills": {
@@ -381,7 +380,7 @@
 		"role": "ATTACKER",
 		"number": 19,
 		"skinColor": "PALE",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "RED",
 		"hairStyle": "SHORT_B",
 		"skills": {
 			"passing": 2,
@@ -441,7 +440,7 @@
 		"nationality": "ESP",
 		"role": "DEFENDER",
 		"number": 20,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "RED",
 		"hairStyle": "BALD_B",
 		"skills": {
@@ -485,12 +484,12 @@
 		]
 	},
 	{
-		"name": "TOMÁS ARESTA BRANCO MACHADO RIBEIRO",
+		"name": "TOMÁS ARESTA BRANCO MACHADO",
 		"shirtName": "TOMÁS RIBEIRO",
 		"nationality": "POR",
 		"role": "DEFENDER",
 		"number": 16,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "PLATINUM",
 		"hairStyle": "CURLY_B",
 		"skills": {
@@ -558,7 +557,7 @@
 		"role": "DEFENDER",
 		"number": 18,
 		"skinColor": "MULATTO",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "RED",
 		"hairStyle": "SPECIAL_E",
 		"skills": {
 			"passing": 5,

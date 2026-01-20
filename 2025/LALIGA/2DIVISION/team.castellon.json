@@ -1,6 +1,5 @@
 {
-  "_comment": "Castellón 2025-26",
-"name": "CASTELLÓN",
+"name": "CD CASTELLÓN",
 "type": "CLUB",
 "country": "ESP",
 "league": "HISTÓRICOS",
@@ -14,28 +13,28 @@
 "tactics": "4-4-2",
 "kits": [
 	{
-		"style": "SIDE_LINES",
-		"shirt1": "#c6054a",
-		"shirt2": "#0214d3",
-		"shirt3": "#086223",
-		"shorts": "#b86f9d",
-		"socks": "#12b523"
+		"style": "VERTICAL",
+		"shirt1": "#dfe8eb",
+		"shirt2": "#1e1e1e",
+		"shirt3": "#1e1e1e",
+		"shorts": "#dfe8eb",
+		"socks": "#dfe8eb"
 	},
 	{
-		"style": "TWO_STRIPES",
-		"shirt1": "#bef8e5",
-		"shirt2": "#863dfe",
-		"shirt3": "#f73ae2",
-		"shorts": "#41d735",
-		"socks": "#f8f153"
+		"style": "SLEEVES",
+		"shirt1": "#949494",
+		"shirt2": "#afb2b9",
+		"shirt3": "#afb2b9",
+		"shorts": "#949494",
+		"socks": "#949494"
 	},
 	{
-		"style": "DIAGONAL",
-		"shirt1": "#a3c492",
-		"shirt2": "#2d5d5b",
-		"shirt3": "#640d9d",
-		"shorts": "#f46d1d",
-		"socks": "#d53820"
+		"style": "PLAIN",
+		"shirt1": "#1e1e1e",
+		"shirt2": "#e8ef2f",
+		"shirt3": "#e8ef2f",
+		"shorts": "#1e1e1e",
+		"socks": "#1e1e1e"
 	}
 ],
 "players": [
@@ -180,8 +179,8 @@
 		"role": "MIDFIELDER",
 		"number": 7,
 		"skinColor": "BLACK",
-		"hairColor": "BLACK",
-		"hairStyle": "THINNING_A",
+		"hairColor": "BROWN",
+		"hairStyle": "CURLY_A",
 		"skills": {
 			"passing": 5,
 			"shooting": 5,
@@ -277,7 +276,7 @@
 		"nationality": "ESP",
 		"role": "ATTACKER",
 		"number": 19,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "WHITE",
 		"hairStyle": "SMOOTH_I",
 		"skills": {
@@ -314,7 +313,7 @@
 		"nationality": "ARG",
 		"role": "DEFENDER",
 		"number": 4,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "BLOND",
 		"hairStyle": "SPECIAL_A",
 		"skills": {
@@ -341,7 +340,7 @@
 		"nationality": "GIN",
 		"role": "DEFENDER",
 		"number": 9,
-		"skinColor": "ASIATIC",
+		"skinColor": "PALE",
 		"hairColor": "PUNK_FUCHSIA",
 		"hairStyle": "SPECIAL_A",
 		"skills": {
@@ -514,7 +513,7 @@
 		"nationality": "ESP",
 		"role": "ATTACKER",
 		"number": 20,
-		"skinColor": "ASIATIC",
+		"skinColor": "PALE",
 		"hairColor": "BLACK",
 		"hairStyle": "THINNING_C",
 		"skills": {
@@ -581,7 +580,7 @@
 		"role": "DEFENDER",
 		"number": 14,
 		"skinColor": "RED",
-		"hairColor": "WHITE",
+		"hairColor": "BLACK",
 		"hairStyle": "SPECIAL_F",
 		"skills": {
 			"passing": 5,

@@ -1,6 +1,5 @@
 {
-  "_comment": "Andorra 2025-26",
-"name": "ANDORRA",
+"name": "FC ANDORRA",
 "type": "CLUB",
 "country": "ESP",
 "league": "HISTÓRICOS",
@@ -14,28 +13,28 @@
 "tactics": "4-4-2",
 "kits": [
 	{
+		"style": "ARMBAND",
+		"shirt1": "#2e247a",
+		"shirt2": "#dfe8eb",
+		"shirt3": "#dfe8eb",
+		"shorts": "#ffd200",
+		"socks": "#f61c1c"
+	},
+	{
 		"style": "VERTICAL_STRIP",
-		"shirt1": "#25ec34",
-		"shirt2": "#95f60e",
-		"shirt3": "#c44006",
-		"shorts": "#fb50ac",
-		"socks": "#730559"
+		"shirt1": "#dfe8eb",
+		"shirt2": "#3033c1",
+		"shirt3": "#f61c1c",
+		"shorts": "#dfe8eb",
+		"socks": "#dfe8eb"
 	},
 	{
-		"style": "DIAGONAL_HALF",
-		"shirt1": "#aa6d47",
-		"shirt2": "#988372",
-		"shirt3": "#29de65",
-		"shorts": "#f6b8aa",
-		"socks": "#11f7f6"
-	},
-	{
-		"style": "CROSS",
-		"shirt1": "#75d1b6",
-		"shirt2": "#13bbb6",
-		"shirt3": "#5192f7",
-		"shorts": "#61bd07",
-		"socks": "#762cda"
+		"style": "SLEEVES",
+		"shirt1": "#1e1e1e",
+		"shirt2": "#30c52c",
+		"shirt3": "#30c52c",
+		"shorts": "#1e1e1e",
+		"socks": "#1e1e1e"
 	}
 ],
 "players": [
@@ -45,7 +44,7 @@
 		"nationality": "HUN",
 		"role": "GOALKEEPER",
 		"number": 25,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "PLATINUM",
 		"hairStyle": "CURLY_D",
 		"value": 31
@@ -228,7 +227,7 @@
 		"nationality": "ESP",
 		"role": "ATTACKER",
 		"number": 29,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "BLOND",
 		"hairStyle": "SMOOTH_D",
 		"skills": {
@@ -487,7 +486,7 @@
 		"nationality": "ESP",
 		"role": "RIGHT_BACK",
 		"number": 2,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "BROWN",
 		"hairStyle": "PIGTAIL_C",
 		"skills": {

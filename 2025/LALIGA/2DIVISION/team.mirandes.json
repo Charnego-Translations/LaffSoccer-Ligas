@@ -1,6 +1,5 @@
 {
-  "_comment": "Mirandés 2025-26",
-"name": "MIRANDÉS",
+"name": "CD MIRANDÉS",
 "type": "CLUB",
 "country": "ESP",
 "league": "HISTÓRICOS",
@@ -14,28 +13,28 @@
 "tactics": "4-4-2",
 "kits": [
 	{
-		"style": "SIDE_LINES",
-		"shirt1": "#697224",
-		"shirt2": "#69a616",
-		"shirt3": "#e07788",
-		"shorts": "#f67c54",
-		"socks": "#39491f"
-	},
-	{
-		"style": "BIG_CHECK",
-		"shirt1": "#4f5936",
-		"shirt2": "#321fe6",
-		"shirt3": "#f3596e",
-		"shorts": "#19f89b",
-		"socks": "#f71009"
-	},
-	{
 		"style": "CHECK",
-		"shirt1": "#b0b9e1",
-		"shirt2": "#786c97",
-		"shirt3": "#d71069",
-		"shorts": "#ac51d1",
-		"socks": "#f45fd9"
+		"shirt1": "#f61c1c",
+		"shirt2": "#1e1e1e",
+		"shirt3": "#1e1e1e",
+		"shorts": "#1e1e1e",
+		"socks": "#1e1e1e"
+	},
+	{
+		"style": "SPICE",
+		"shirt1": "#e8ef2f",
+		"shirt2": "#f61c1c",
+		"shirt3": "#1e1e1e",
+		"shorts": "#e8ef2f",
+		"socks": "#f61c1c"
+	},
+	{
+		"style": "PLAIN",
+		"shirt1": "#f61c1c",
+		"shirt2": "#1e1e1e",
+		"shirt3": "#1e1e1e",
+		"shorts": "#1e1e1e",
+		"socks": "#1e1e1e"
 	}
 ],
 "players": [
@@ -128,7 +127,7 @@
 		"role": "DEFENDER",
 		"number": 4,
 		"skinColor": "MULATTO",
-		"hairColor": "PLATINUM",
+		"hairColor": "GRAY",
 		"hairStyle": "SMOOTH_I",
 		"skills": {
 			"passing": 4,
@@ -148,7 +147,7 @@
 		"role": "LEFT_BACK",
 		"number": 17,
 		"skinColor": "RED",
-		"hairColor": "PLATINUM",
+		"hairColor": "GRAY",
 		"hairStyle": "CURLY_C",
 		"skills": {
 			"passing": 3,
@@ -174,7 +173,7 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 26,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "BLACK",
 		"hairStyle": "SHORT_C",
 		"skills": {
@@ -262,8 +261,8 @@
 		"nationality": "ESP",
 		"role": "ATTACKER",
 		"number": 2,
-		"skinColor": "ASIATIC",
-		"hairColor": "WHITE",
+		"skinColor": "ARAB",
+		"hairColor": "BLACK",
 		"hairStyle": "CURLY_A",
 		"skills": {
 			"passing": 3,
@@ -290,8 +289,8 @@
 		"role": "GOALKEEPER",
 		"number": 13,
 		"skinColor": "ARAB",
-		"hairColor": "WHITE",
-		"hairStyle": "THINNING_A",
+		"hairColor": "BLACK",
+		"hairStyle": "THINNING_C",
 		"value": 10
 	},
 	{
@@ -327,7 +326,7 @@
 		"nationality": "ESP",
 		"role": "ATTACKER",
 		"number": 27,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "BLACK",
 		"hairStyle": "CURLY_C",
 		"skills": {
@@ -352,7 +351,7 @@
 		"nationality": "ESP",
 		"role": "MIDFIELDER",
 		"number": 11,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "RED",
 		"hairStyle": "SMOOTH_O",
 		"skills": {
@@ -428,7 +427,7 @@
 		"nationality": "MAR",
 		"role": "ATTACKER",
 		"number": 30,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "RED",
 		"hairStyle": "SHORT_A",
 		"skills": {
@@ -521,9 +520,9 @@
 		"nationality": "ESP",
 		"role": "DEFENDER",
 		"number": 5,
-		"skinColor": "ASIATIC",
-		"hairColor": "PUNK_FUCHSIA",
-		"hairStyle": "SPECIAL_G",
+		"skinColor": "PALE",
+		"hairColor": "GRAY",
+		"hairStyle": "THINNING_A",
 		"skills": {
 			"passing": 4,
 			"shooting": 4,
@@ -566,7 +565,7 @@
 		"nationality": "ESP",
 		"role": "ATTACKER",
 		"number": 29,
-		"skinColor": "ASIATIC",
+		"skinColor": "PALE",
 		"hairColor": "BLACK",
 		"hairStyle": "SMOOTH_B",
 		"skills": {

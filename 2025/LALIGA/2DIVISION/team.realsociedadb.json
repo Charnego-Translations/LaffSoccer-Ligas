@@ -1,5 +1,4 @@
 {
-  "_comment": "Real Sociedad B 2025-26",
 "name": "REAL SOCIEDAD B",
 "type": "CLUB",
 "country": "ESP",
@@ -14,28 +13,28 @@
 "tactics": "4-4-2",
 "kits": [
 	{
-		"style": "LINE",
-		"shirt1": "#52b591",
-		"shirt2": "#c79991",
-		"shirt3": "#dce657",
-		"shorts": "#9c64d9",
-		"socks": "#ffeb12"
+		"style": "VERTICAL",
+		"shirt1": "#dfe8eb",
+		"shirt2": "#3033c1",
+		"shirt3": "#3033c1",
+		"shorts": "#dfe8eb",
+		"socks": "#dfe8eb"
 	},
 	{
 		"style": "ARMBAND",
-		"shirt1": "#6abbcd",
-		"shirt2": "#cfb2e5",
-		"shirt3": "#e70036",
-		"shorts": "#19db51",
-		"socks": "#597b4d"
+		"shirt1": "#949494",
+		"shirt2": "#afb2b9",
+		"shirt3": "#afb2b9",
+		"shorts": "#afb2b9",
+		"socks": "#949494"
 	},
 	{
-		"style": "TWO_STRIPES",
-		"shirt1": "#06ac7a",
-		"shirt2": "#09e1af",
-		"shirt3": "#af738e",
-		"shorts": "#bc9d1d",
-		"socks": "#ae9da7"
+		"style": "VERTICAL",
+		"shirt1": "#dfe8eb",
+		"shirt2": "#3033c1",
+		"shirt3": "#3033c1",
+		"shorts": "#3033c1",
+		"socks": "#1e1e1e"
 	}
 ],
 "players": [
@@ -45,7 +44,7 @@
 		"nationality": "ESP",
 		"role": "GOALKEEPER",
 		"number": 1,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "PLATINUM",
 		"hairStyle": "SHORT_A",
 		"value": 33
@@ -79,7 +78,7 @@
 		"nationality": "ESP",
 		"role": "LEFT_BACK",
 		"number": 3,
-		"skinColor": "BLACK",
+		"skinColor": "PINK",
 		"hairColor": "PLATINUM",
 		"hairStyle": "SMOOTH_D",
 		"skills": {
@@ -242,7 +241,7 @@
 		"nationality": "ESP",
 		"role": "ATTACKER",
 		"number": 11,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "WHITE",
 		"hairStyle": "SMOOTH_E",
 		"skills": {
@@ -260,7 +259,7 @@
 		]
 	},
 	{
-		"name": "ARKAITZ MARIEZKURRENA ETXEZARRETA",
+		"name": "ARKAITZ MARIEZKURRENA",
 		"shirtName": "MARIEZKURRENA",
 		"nationality": "ESP",
 		"role": "ATTACKER",
@@ -288,7 +287,7 @@
 		"nationality": "ESP",
 		"role": "GOALKEEPER",
 		"number": 13,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "WHITE",
 		"hairStyle": "PIGTAIL_C",
 		"value": 30
@@ -322,7 +321,7 @@
 		"role": "MIDFIELDER",
 		"number": 30,
 		"skinColor": "PINK",
-		"hairColor": "PUNK_FUCHSIA",
+		"hairColor": "BLACK",
 		"hairStyle": "SHORT_B",
 		"skills": {
 			"passing": 5,
@@ -536,7 +535,7 @@
 		"nationality": "FRA",
 		"role": "MIDFIELDER",
 		"number": 6,
-		"skinColor": "ALIEN",
+		"skinColor": "RED",
 		"hairColor": "WHITE",
 		"hairStyle": "SMOOTH_C",
 		"skills": {
